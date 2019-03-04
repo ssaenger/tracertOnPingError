@@ -1,0 +1,272 @@
+Sat 03/02/2019  1:10:48.00 Initial tracert (trace route) to utahbroadband.com  
+
+Tracing route to utahbroadband.com [208.64.90.246]
+over a maximum of 30 hops:
+
+  1    <1 ms    <1 ms    <1 ms  192.168.1.1 
+  2     1 ms    <1 ms    <1 ms  10.1.134.1 
+  3     2 ms     1 ms     1 ms  66.29.178.205.static.utbb.net [66.29.178.205] 
+  4     2 ms     2 ms     2 ms  204.14.21.158.static.utbb.net [204.14.21.158] 
+  5     5 ms     4 ms     4 ms  66.29.191.205.static.utbb.net [66.29.191.205] 
+  6     3 ms     3 ms     3 ms  204.14.23.74.static.utbb.net [204.14.23.74] 
+  7     3 ms     3 ms     3 ms  www.utahbroadband.com [208.64.90.246] 
+
+Trace complete.
+Begin pinging utahbroadband.com  
+Sat 03/02/2019  1:23:58.54 PING ERROR 1  
+
+Tracing route to utahbroadband.com [208.64.90.246]
+over a maximum of 30 hops:
+
+  1    <1 ms    <1 ms    <1 ms  192.168.1.1 
+  2    <1 ms    <1 ms    <1 ms  10.1.134.1 
+  3     1 ms     1 ms    <1 ms  66.29.178.205 
+  4    27 ms     6 ms     2 ms  204.14.21.158 
+  5     5 ms     4 ms     5 ms  66.29.191.205 
+  6     3 ms     3 ms     3 ms  204.14.23.74 
+  7     3 ms     3 ms     3 ms  208.64.90.246 
+
+Trace complete.
+Sat 03/02/2019  1:29:58.04 PING ERROR 2  
+
+Tracing route to utahbroadband.com [208.64.90.246]
+over a maximum of 30 hops:
+
+  1    <1 ms    <1 ms    <1 ms  192.168.1.1 
+  2    <1 ms    <1 ms    <1 ms  10.1.134.1 
+  3     1 ms     1 ms     1 ms  66.29.178.205 
+  4     2 ms     2 ms     2 ms  204.14.21.158 
+  5     4 ms     4 ms     5 ms  66.29.191.205 
+  6     3 ms     4 ms     3 ms  204.14.23.74 
+  7     3 ms     3 ms     3 ms  208.64.90.246 
+
+Trace complete.
+Sat 03/02/2019  2:41:15.04 PING ERROR 3  
+
+Tracing route to utahbroadband.com [208.64.90.246]
+over a maximum of 30 hops:
+
+  1    <1 ms    <1 ms    <1 ms  192.168.1.1 
+  2     1 ms    <1 ms    <1 ms  10.1.134.1 
+  3     1 ms    <1 ms    <1 ms  66.29.178.201 
+  4     *        4 ms     2 ms  204.14.21.158 
+  5     5 ms     5 ms     6 ms  66.29.191.205 
+  6     5 ms     4 ms     4 ms  204.14.23.74 
+  7     3 ms     5 ms     5 ms  208.64.90.246 
+
+Trace complete.
+Sat 03/02/2019  3:14:26.54 PING ERROR 4  
+
+Tracing route to utahbroadband.com [208.64.90.246]
+over a maximum of 30 hops:
+
+  1     1 ms    <1 ms    <1 ms  192.168.1.1 
+  2     1 ms    <1 ms    <1 ms  10.1.134.1 
+  3     1 ms     1 ms     1 ms  66.29.178.201 
+  4     *        *        3 ms  204.14.21.158 
+  5     5 ms     5 ms     5 ms  66.29.191.205 
+  6     3 ms     5 ms     3 ms  204.14.23.74 
+  7     3 ms     3 ms     3 ms  208.64.90.246 
+
+Trace complete.
+Sat 03/02/2019  3:27:49.54 PING ERROR 5  
+
+Tracing route to utahbroadband.com [208.64.90.246]
+over a maximum of 30 hops:
+
+  1    <1 ms    <1 ms    <1 ms  192.168.1.1 
+  2    <1 ms    <1 ms    <1 ms  10.1.134.1 
+  3     1 ms     1 ms    <1 ms  66.29.178.201 
+  4     *        *        4 ms  204.14.21.158 
+  5    57 ms    67 ms     4 ms  66.29.191.205 
+  6     3 ms     3 ms     3 ms  204.14.23.74 
+  7     3 ms     3 ms     3 ms  208.64.90.246 
+
+Trace complete.
+Sat 03/02/2019  3:38:58.04 PING ERROR 6  
+
+Tracing route to utahbroadband.com [208.64.90.246]
+over a maximum of 30 hops:
+
+  1    <1 ms    <1 ms    <1 ms  192.168.1.1 
+  2     1 ms    <1 ms    <1 ms  10.1.134.1 
+  3     1 ms    <1 ms     1 ms  66.29.178.201 
+  4     *        *        2 ms  204.14.21.158 
+  5     4 ms     4 ms     4 ms  66.29.191.205 
+  6     3 ms     3 ms     3 ms  204.14.23.74 
+  7     3 ms     3 ms     3 ms  208.64.90.246 
+
+Trace complete.
+Sat 03/02/2019  4:07:00.04 PING ERROR 7  
+
+Tracing route to utahbroadband.com [208.64.90.246]
+over a maximum of 30 hops:
+
+  1    <1 ms    <1 ms    <1 ms  192.168.1.1 
+  2     1 ms    <1 ms    <1 ms  10.1.134.1 
+  3     1 ms     1 ms     1 ms  66.29.178.201 
+  4     *        *        2 ms  204.14.21.158 
+  5     4 ms     7 ms     6 ms  66.29.191.205 
+  6     3 ms     3 ms     3 ms  204.14.23.74 
+  7     4 ms     3 ms     3 ms  208.64.90.246 
+
+Trace complete.
+Sat 03/02/2019  4:29:20.54 PING ERROR 8  
+
+Tracing route to utahbroadband.com [208.64.90.246]
+over a maximum of 30 hops:
+
+  1     1 ms    <1 ms    <1 ms  192.168.1.1 
+  2     1 ms    <1 ms    <1 ms  10.1.134.1 
+  3     1 ms     1 ms    <1 ms  66.29.178.201 
+  4     *        *        5 ms  204.14.21.158 
+  5    20 ms     7 ms     5 ms  66.29.191.205 
+  6     5 ms     3 ms     3 ms  204.14.23.74 
+  7     3 ms     3 ms     4 ms  208.64.90.246 
+
+Trace complete.
+Sat 03/02/2019  4:42:02.54 PING ERROR 9  
+
+Tracing route to utahbroadband.com [208.64.90.246]
+over a maximum of 30 hops:
+
+  1    <1 ms    <1 ms    <1 ms  192.168.1.1 
+  2    <1 ms    <1 ms    <1 ms  10.1.134.1 
+  3     2 ms    <1 ms     1 ms  66.29.178.201 
+  4     *        *        3 ms  204.14.21.158 
+  5     4 ms     4 ms     8 ms  66.29.191.205 
+  6     3 ms     3 ms     3 ms  204.14.23.74 
+  7     3 ms     3 ms     3 ms  208.64.90.246 
+
+Trace complete.
+Sat 03/02/2019  5:00:50.54 PING ERROR 10  
+
+Tracing route to utahbroadband.com [208.64.90.246]
+over a maximum of 30 hops:
+
+  1     1 ms    <1 ms    <1 ms  192.168.1.1 
+  2     1 ms    <1 ms    <1 ms  10.1.134.1 
+  3     2 ms     1 ms     1 ms  66.29.178.201 
+  4     2 ms     2 ms     2 ms  204.14.21.158 
+  5     4 ms     4 ms     4 ms  66.29.191.205 
+  6     3 ms     3 ms     3 ms  204.14.23.74 
+  7     5 ms     3 ms     3 ms  208.64.90.246 
+
+Trace complete.
+Sat 03/02/2019  5:15:29.54 PING ERROR 11  
+
+Tracing route to utahbroadband.com [208.64.90.246]
+over a maximum of 30 hops:
+
+  1    <1 ms    <1 ms    <1 ms  192.168.1.1 
+  2     1 ms    <1 ms    <1 ms  10.1.134.1 
+  3     1 ms     1 ms     1 ms  66.29.178.201 
+  4     *        *        3 ms  204.14.21.158 
+  5     4 ms     5 ms     4 ms  66.29.191.205 
+  6     3 ms     3 ms     3 ms  204.14.23.74 
+  7     3 ms     3 ms     3 ms  208.64.90.246 
+
+Trace complete.
+Sat 03/02/2019  5:56:06.54 PING ERROR 12  
+
+Tracing route to utahbroadband.com [208.64.90.246]
+over a maximum of 30 hops:
+
+  1     4 ms    <1 ms    <1 ms  192.168.1.1 
+  2     1 ms    <1 ms    <1 ms  10.1.134.1 
+  3     1 ms    <1 ms     1 ms  66.29.178.201 
+  4     2 ms     2 ms     2 ms  204.14.21.158 
+  5     5 ms     5 ms     5 ms  66.29.191.205 
+  6     4 ms     3 ms     3 ms  204.14.23.74 
+  7     4 ms     3 ms     4 ms  208.64.90.246 
+
+Trace complete.
+Sat 03/02/2019  6:11:12.04 PING ERROR 13  
+
+Tracing route to utahbroadband.com [208.64.90.246]
+over a maximum of 30 hops:
+
+  1    <1 ms    <1 ms    <1 ms  192.168.1.1 
+  2     1 ms    <1 ms    <1 ms  10.1.134.1 
+  3     1 ms     1 ms    <1 ms  66.29.178.201 
+  4     *        *        2 ms  204.14.21.158 
+  5     4 ms     5 ms     4 ms  66.29.191.205 
+  6     3 ms     3 ms     3 ms  204.14.23.74 
+  7     3 ms     3 ms     3 ms  208.64.90.246 
+
+Trace complete.
+Sat 03/02/2019  6:26:17.04 PING ERROR 14  
+
+Tracing route to utahbroadband.com [208.64.90.246]
+over a maximum of 30 hops:
+
+  1    <1 ms    <1 ms    <1 ms  192.168.1.1 
+  2    <1 ms    <1 ms    <1 ms  10.1.134.1 
+  3     1 ms    <1 ms     1 ms  66.29.178.201 
+  4     *        3 ms     2 ms  204.14.21.158 
+  5     8 ms     4 ms     4 ms  66.29.191.205 
+  6     3 ms     3 ms     3 ms  204.14.23.74 
+  7     4 ms     3 ms     3 ms  208.64.90.246 
+
+Trace complete.
+Sat 03/02/2019  7:26:29.54 PING ERROR 15  
+
+Tracing route to utahbroadband.com [208.64.90.246]
+over a maximum of 30 hops:
+
+  1     1 ms    <1 ms    <1 ms  192.168.1.1 
+  2     1 ms    <1 ms    <1 ms  10.1.134.1 
+  3     1 ms     1 ms     1 ms  66.29.178.201 
+  4     *        *        3 ms  204.14.21.158 
+  5     5 ms     4 ms     5 ms  66.29.191.205 
+  6     3 ms     3 ms     3 ms  204.14.23.74 
+  7     3 ms     3 ms     3 ms  208.64.90.246 
+
+Trace complete.
+Sat 03/02/2019 23:07:23.54 PING ERROR 16  
+
+Tracing route to utahbroadband.com [208.64.90.246]
+over a maximum of 30 hops:
+
+  1     1 ms    <1 ms    <1 ms  192.168.1.1 
+  2     1 ms    <1 ms    <1 ms  10.1.134.1 
+  3     1 ms    <1 ms    <1 ms  66.29.178.201 
+  4     *        *       22 ms  204.14.21.158 
+  5    16 ms    13 ms     *     66.29.191.205 
+  6     3 ms     4 ms     3 ms  204.14.23.74 
+  7     5 ms     3 ms     4 ms  208.64.90.246 
+
+Trace complete.
+Sat 03/02/2019 23:39:30.54 PING ERROR 17  
+
+Tracing route to utahbroadband.com [208.64.90.246]
+over a maximum of 30 hops:
+
+  1     1 ms    <1 ms    <1 ms  192.168.1.1 
+  2     1 ms    <1 ms    <1 ms  10.1.134.1 
+  3     1 ms     1 ms     1 ms  66.29.178.205 
+  4     2 ms     2 ms     2 ms  204.14.21.158 
+  5     6 ms     4 ms     4 ms  66.29.191.205 
+  6     3 ms     3 ms     3 ms  204.14.23.74 
+  7     3 ms     3 ms     3 ms  208.64.90.246 
+
+Trace complete.
+
+
+Sat 03/02/2019  1:23:58.54 PING ERROR 1
+Sat 03/02/2019  1:29:58.04 PING ERROR 2
+Sat 03/02/2019  2:41:15.04 PING ERROR 3
+Sat 03/02/2019  3:14:26.54 PING ERROR 4
+Sat 03/02/2019  3:27:49.54 PING ERROR 5
+Sat 03/02/2019  3:38:58.04 PING ERROR 6
+Sat 03/02/2019  4:07:00.04 PING ERROR 7
+Sat 03/02/2019  4:29:20.54 PING ERROR 8
+Sat 03/02/2019  4:42:02.54 PING ERROR 9
+Sat 03/02/2019  5:00:50.54 PING ERROR 10
+Sat 03/02/2019  5:15:29.54 PING ERROR 11
+Sat 03/02/2019  5:56:06.54 PING ERROR 12
+Sat 03/02/2019  6:11:12.04 PING ERROR 13
+Sat 03/02/2019  6:26:17.04 PING ERROR 14
+Sat 03/02/2019  7:26:29.54 PING ERROR 15
+Sat 03/02/2019 23:07:23.54 PING ERROR 16
+Sat 03/02/2019 23:39:30.54 PING ERROR 17
