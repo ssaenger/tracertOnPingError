@@ -1,0 +1,3083 @@
+Tue 03/26/2019 12:49:06.66 Initial tracert (trace route) to utahbroadband.com  
+
+Tracing route to utahbroadband.com [208.64.90.246]
+over a maximum of 30 hops:
+
+  1    <1 ms    <1 ms    <1 ms  router.asus.com [192.168.1.1] 
+  2    <1 ms    <1 ms    <1 ms  10.1.27.1 
+  3     3 ms     1 ms     1 ms  66.29.178.205.static.utbb.net [66.29.178.205] 
+  4    18 ms     2 ms     2 ms  204.14.21.158.static.utbb.net [204.14.21.158] 
+  5    25 ms    15 ms    10 ms  66.29.191.205.static.utbb.net [66.29.191.205] 
+  6     3 ms     3 ms     4 ms  204.14.23.74.static.utbb.net [204.14.23.74] 
+  7     3 ms     3 ms     3 ms  www.utahbroadband.com [208.64.90.246] 
+
+Trace complete.
+Begin pinging utahbroadband.com  
+Tue 03/26/2019 17:39:38.14 PING ERROR 1  
+
+Tracing route to utahbroadband.com [208.64.90.246]
+over a maximum of 30 hops:
+
+  1    <1 ms    <1 ms    <1 ms  192.168.1.1 
+  2    <1 ms    <1 ms    <1 ms  10.1.27.1 
+  3     3 ms     *        1 ms  66.29.178.205 
+  4     2 ms     6 ms     4 ms  204.14.23.234 
+  5     5 ms     4 ms     5 ms  204.14.23.153 
+  6     3 ms     2 ms     2 ms  204.14.23.74 
+  7     3 ms     4 ms     3 ms  208.64.90.246 
+
+Trace complete.
+Tue 03/26/2019 18:41:20.15 PING ERROR 2  
+
+Tracing route to utahbroadband.com [208.64.90.246]
+over a maximum of 30 hops:
+
+  1    <1 ms    <1 ms    <1 ms  192.168.1.1 
+  2     1 ms     2 ms     7 ms  10.1.27.1 
+  3     2 ms     1 ms     1 ms  66.29.178.205 
+  4    24 ms    13 ms    12 ms  204.14.21.158 
+  5     7 ms     6 ms     4 ms  66.29.191.205 
+  6     *        3 ms     3 ms  204.14.23.74 
+  7     3 ms     3 ms     4 ms  208.64.90.246 
+
+Trace complete.
+Tue 03/26/2019 18:46:39.15 PING ERROR 3  
+
+Tracing route to utahbroadband.com [208.64.90.246]
+over a maximum of 30 hops:
+
+  1    <1 ms    <1 ms    <1 ms  192.168.1.1 
+  2     1 ms    <1 ms    <1 ms  10.1.27.1 
+  3     1 ms     1 ms     1 ms  66.29.178.205 
+  4     2 ms    16 ms     3 ms  204.14.21.158 
+  5     5 ms     4 ms     6 ms  66.29.191.205 
+  6     3 ms     4 ms     4 ms  204.14.23.74 
+  7     3 ms     3 ms     3 ms  208.64.90.246 
+
+Trace complete.
+Tue 03/26/2019 18:48:27.14 PING ERROR 4  
+
+Tracing route to utahbroadband.com [208.64.90.246]
+over a maximum of 30 hops:
+
+  1    <1 ms    <1 ms    <1 ms  192.168.1.1 
+  2     3 ms    <1 ms    <1 ms  10.1.27.1 
+  3     1 ms     1 ms     1 ms  66.29.178.205 
+  4     3 ms     3 ms     2 ms  204.14.21.158 
+  5     4 ms     4 ms     4 ms  66.29.191.205 
+  6     3 ms     3 ms     3 ms  204.14.23.74 
+  7     3 ms     3 ms     3 ms  208.64.90.246 
+
+Trace complete.
+Tue 03/26/2019 18:52:06.65 PING ERROR 5  
+
+Tracing route to utahbroadband.com [208.64.90.246]
+over a maximum of 30 hops:
+
+  1    <1 ms    <1 ms    <1 ms  192.168.1.1 
+  2    <1 ms    <1 ms    <1 ms  10.1.27.1 
+  3     1 ms     1 ms     1 ms  66.29.178.205 
+  4    18 ms     2 ms     2 ms  204.14.21.158 
+  5     9 ms     4 ms     4 ms  66.29.191.205 
+  6     3 ms     4 ms     4 ms  204.14.23.74 
+  7     3 ms     4 ms     3 ms  208.64.90.246 
+
+Trace complete.
+Tue 03/26/2019 19:51:20.14 PING ERROR 6  
+
+Tracing route to utahbroadband.com [208.64.90.246]
+over a maximum of 30 hops:
+
+  1    <1 ms    <1 ms    <1 ms  192.168.1.1 
+  2     2 ms    <1 ms    <1 ms  10.1.27.1 
+  3     4 ms     1 ms     1 ms  66.29.178.205 
+  4     2 ms     2 ms     2 ms  204.14.21.158 
+  5     4 ms     4 ms     4 ms  66.29.191.205 
+  6     3 ms     3 ms     3 ms  204.14.23.74 
+  7     3 ms     3 ms     4 ms  208.64.90.246 
+
+Trace complete.
+Tue 03/26/2019 19:51:40.15 PING ERROR 7  
+
+Tracing route to utahbroadband.com [208.64.90.246]
+over a maximum of 30 hops:
+
+  1    <1 ms    <1 ms    <1 ms  192.168.1.1 
+  2    <1 ms    <1 ms     2 ms  10.1.27.1 
+  3     2 ms     2 ms     1 ms  66.29.178.205 
+  4     2 ms    16 ms     3 ms  204.14.21.158 
+  5     4 ms     4 ms     5 ms  66.29.191.205 
+  6     5 ms     3 ms     3 ms  204.14.23.74 
+  7     3 ms     3 ms     3 ms  208.64.90.246 
+
+Trace complete.
+Tue 03/26/2019 21:11:42.15 PING ERROR 8  
+
+Tracing route to utahbroadband.com [208.64.90.246]
+over a maximum of 30 hops:
+
+  1    <1 ms    <1 ms    <1 ms  192.168.1.1 
+  2    <1 ms    <1 ms    <1 ms  10.1.27.1 
+  3     1 ms     1 ms     1 ms  66.29.178.205 
+  4     2 ms    22 ms    32 ms  204.14.21.158 
+  5     4 ms     4 ms     5 ms  66.29.191.205 
+  6     3 ms     3 ms     3 ms  204.14.23.74 
+  7     3 ms     3 ms     4 ms  208.64.90.246 
+
+Trace complete.
+Tue 03/26/2019 21:16:43.14 PING ERROR 9  
+
+Tracing route to utahbroadband.com [208.64.90.246]
+over a maximum of 30 hops:
+
+  1    <1 ms    <1 ms    <1 ms  192.168.1.1 
+  2     1 ms    <1 ms    <1 ms  10.1.27.1 
+  3     1 ms     1 ms     1 ms  66.29.178.205 
+  4    33 ms    37 ms     2 ms  204.14.21.158 
+  5     4 ms     4 ms     4 ms  66.29.191.205 
+  6    27 ms    27 ms    29 ms  204.14.23.74 
+  7     4 ms     3 ms     3 ms  208.64.90.246 
+
+Trace complete.
+Tue 03/26/2019 21:19:03.64 PING ERROR 10  
+
+Tracing route to utahbroadband.com [208.64.90.246]
+over a maximum of 30 hops:
+
+  1    <1 ms    <1 ms    <1 ms  192.168.1.1 
+  2    <1 ms    <1 ms    <1 ms  10.1.27.1 
+  3     4 ms     1 ms     1 ms  66.29.178.205 
+  4     2 ms    15 ms     3 ms  204.14.21.158 
+  5     6 ms     5 ms     5 ms  66.29.191.205 
+  6     7 ms     3 ms     3 ms  204.14.23.74 
+  7     3 ms     3 ms     3 ms  208.64.90.246 
+
+Trace complete.
+Tue 03/26/2019 21:22:43.14 PING ERROR 11  
+
+Tracing route to utahbroadband.com [208.64.90.246]
+over a maximum of 30 hops:
+
+  1    <1 ms    <1 ms    <1 ms  192.168.1.1 
+  2     1 ms    <1 ms    <1 ms  10.1.27.1 
+  3     1 ms     1 ms     2 ms  66.29.178.205 
+  4     4 ms     2 ms     2 ms  204.14.21.158 
+  5    13 ms     7 ms     4 ms  66.29.191.205 
+  6     3 ms     3 ms     3 ms  204.14.23.74 
+  7     4 ms     3 ms     3 ms  208.64.90.246 
+
+Trace complete.
+Tue 03/26/2019 21:33:19.64 PING ERROR 12  
+
+Tracing route to utahbroadband.com [208.64.90.246]
+over a maximum of 30 hops:
+
+  1    <1 ms    <1 ms    <1 ms  192.168.1.1 
+  2     1 ms    <1 ms    <1 ms  10.1.27.1 
+  3    11 ms     3 ms     1 ms  66.29.178.205 
+  4     3 ms     2 ms     2 ms  204.14.21.158 
+  5     5 ms     5 ms     5 ms  66.29.191.205 
+  6     3 ms     3 ms     4 ms  204.14.23.74 
+  7     3 ms     3 ms     4 ms  208.64.90.246 
+
+Trace complete.
+Tue 03/26/2019 21:36:22.65 PING ERROR 13  
+
+Tracing route to utahbroadband.com [208.64.90.246]
+over a maximum of 30 hops:
+
+  1    <1 ms    <1 ms    <1 ms  192.168.1.1 
+  2    <1 ms    <1 ms    <1 ms  10.1.27.1 
+  3     1 ms     1 ms     1 ms  66.29.178.205 
+  4    18 ms     2 ms     5 ms  204.14.21.158 
+  5     4 ms     4 ms     4 ms  66.29.191.205 
+  6     3 ms     4 ms     3 ms  204.14.23.74 
+  7     3 ms     3 ms     3 ms  208.64.90.246 
+
+Trace complete.
+Tue 03/26/2019 21:53:20.14 PING ERROR 14  
+
+Tracing route to utahbroadband.com [208.64.90.246]
+over a maximum of 30 hops:
+
+  1    <1 ms    <1 ms    <1 ms  192.168.1.1 
+  2    <1 ms    <1 ms     1 ms  10.1.27.1 
+  3     2 ms     1 ms     1 ms  66.29.178.205 
+  4     3 ms     3 ms     2 ms  204.14.21.158 
+  5     9 ms     4 ms     4 ms  66.29.191.205 
+  6     3 ms     3 ms     3 ms  204.14.23.74 
+  7     3 ms     3 ms     4 ms  208.64.90.246 
+
+Trace complete.
+Tue 03/26/2019 22:44:42.14 PING ERROR 15  
+
+Tracing route to utahbroadband.com [208.64.90.246]
+over a maximum of 30 hops:
+
+  1    <1 ms    <1 ms    <1 ms  192.168.1.1 
+  2    <1 ms    <1 ms    <1 ms  10.1.27.1 
+  3     1 ms     1 ms     1 ms  66.29.178.205 
+  4    20 ms     3 ms     2 ms  204.14.21.158 
+  5     6 ms     4 ms     6 ms  66.29.191.205 
+  6     6 ms     4 ms     3 ms  204.14.23.74 
+  7     3 ms     3 ms     3 ms  208.64.90.246 
+
+Trace complete.
+Wed 03/27/2019  1:10:30.14 PING ERROR 16  
+
+Tracing route to utahbroadband.com [208.64.90.246]
+over a maximum of 30 hops:
+
+  1    <1 ms    <1 ms    <1 ms  192.168.1.1 
+  2    <1 ms    <1 ms    <1 ms  10.1.27.1 
+  3     1 ms     1 ms     1 ms  66.29.178.205 
+  4     2 ms     2 ms     2 ms  204.14.21.158 
+  5     4 ms     4 ms     4 ms  66.29.191.205 
+  6    13 ms     3 ms     3 ms  204.14.23.74 
+  7     3 ms     3 ms     3 ms  208.64.90.246 
+
+Trace complete.
+Wed 03/27/2019  6:47:35.64 PING ERROR 17  
+
+Tracing route to utahbroadband.com [208.64.90.246]
+over a maximum of 30 hops:
+
+  1    <1 ms    <1 ms    <1 ms  192.168.1.1 
+  2    <1 ms    <1 ms    <1 ms  10.1.27.1 
+  3     1 ms     1 ms     1 ms  66.29.178.205 
+  4     2 ms    16 ms     2 ms  204.14.21.158 
+  5     4 ms     4 ms     5 ms  66.29.191.205 
+  6     4 ms     3 ms     3 ms  204.14.23.74 
+  7     3 ms     3 ms     3 ms  208.64.90.246 
+
+Trace complete.
+Wed 03/27/2019  7:17:14.64 PING ERROR 18  
+
+Tracing route to utahbroadband.com [208.64.90.246]
+over a maximum of 30 hops:
+
+  1    <1 ms    <1 ms    <1 ms  192.168.1.1 
+  2    <1 ms    <1 ms    <1 ms  10.1.27.1 
+  3     1 ms     1 ms    <1 ms  66.29.178.205 
+  4     2 ms    16 ms     3 ms  204.14.21.158 
+  5     6 ms     4 ms     4 ms  66.29.191.205 
+  6     3 ms     3 ms     3 ms  204.14.23.74 
+  7     3 ms     3 ms     3 ms  208.64.90.246 
+
+Trace complete.
+Wed 03/27/2019  8:42:19.15 PING ERROR 19  
+
+Tracing route to utahbroadband.com [208.64.90.246]
+over a maximum of 30 hops:
+
+  1    <1 ms    <1 ms    <1 ms  192.168.1.1 
+  2    <1 ms    <1 ms    <1 ms  10.1.27.1 
+  3     1 ms     4 ms     1 ms  66.29.178.205 
+  4     2 ms    16 ms     2 ms  204.14.21.158 
+  5    45 ms    55 ms    54 ms  66.29.191.205 
+  6     3 ms     5 ms     3 ms  204.14.23.74 
+  7     3 ms     3 ms     3 ms  208.64.90.246 
+
+Trace complete.
+Wed 03/27/2019  8:42:49.64 PING ERROR 20  
+
+Tracing route to utahbroadband.com [208.64.90.246]
+over a maximum of 30 hops:
+
+  1    <1 ms    <1 ms    <1 ms  192.168.1.1 
+  2    20 ms    19 ms    20 ms  10.1.27.1 
+  3    17 ms    17 ms    17 ms  66.29.178.205 
+  4     2 ms     3 ms     2 ms  204.14.21.158 
+  5    23 ms     4 ms     5 ms  66.29.191.205 
+  6     3 ms     3 ms     3 ms  204.14.23.74 
+  7     3 ms     3 ms     3 ms  208.64.90.246 
+
+Trace complete.
+Wed 03/27/2019 16:35:01.15 PING ERROR 21  
+
+Tracing route to utahbroadband.com [208.64.90.246]
+over a maximum of 30 hops:
+
+  1    <1 ms    <1 ms    <1 ms  192.168.1.1 
+  2    23 ms    18 ms    14 ms  10.1.27.1 
+  3    18 ms    14 ms    15 ms  66.29.178.205 
+  4    25 ms    31 ms    27 ms  204.14.21.158 
+  5    26 ms    23 ms    21 ms  66.29.191.205 
+  6    18 ms    19 ms    22 ms  204.14.23.74 
+  7    17 ms    22 ms    23 ms  208.64.90.246 
+
+Trace complete.
+Wed 03/27/2019 16:35:54.14 PING ERROR 22  
+
+Tracing route to utahbroadband.com [208.64.90.246]
+over a maximum of 30 hops:
+
+  1    <1 ms    <1 ms    <1 ms  192.168.1.1 
+  2    18 ms    16 ms    17 ms  10.1.27.1 
+  3    21 ms    20 ms    22 ms  66.29.178.205 
+  4    24 ms    21 ms    23 ms  204.14.21.158 
+  5     *       27 ms    22 ms  66.29.191.205 
+  6    23 ms    27 ms    26 ms  204.14.23.74 
+  7    23 ms    27 ms    27 ms  208.64.90.246 
+
+Trace complete.
+Wed 03/27/2019 16:37:03.64 PING ERROR 23  
+
+Tracing route to utahbroadband.com [208.64.90.246]
+over a maximum of 30 hops:
+
+  1    <1 ms    <1 ms    <1 ms  192.168.1.1 
+  2    15 ms    19 ms    19 ms  10.1.27.1 
+  3    15 ms    18 ms    16 ms  66.29.178.205 
+  4    23 ms    20 ms    25 ms  204.14.21.158 
+  5    24 ms    23 ms    25 ms  66.29.191.205 
+  6    27 ms    25 ms     *     204.14.23.74 
+  7    24 ms    20 ms    19 ms  208.64.90.246 
+
+Trace complete.
+Wed 03/27/2019 19:16:13.65 PING ERROR 24  
+
+Tracing route to utahbroadband.com [208.64.90.246]
+over a maximum of 30 hops:
+
+  1    <1 ms    <1 ms    <1 ms  192.168.1.1 
+  2    <1 ms    <1 ms    <1 ms  10.1.27.1 
+  3     1 ms     1 ms     1 ms  66.29.178.205 
+  4    21 ms     5 ms     2 ms  204.14.21.158 
+  5     8 ms     6 ms     4 ms  66.29.191.205 
+  6     3 ms     3 ms     3 ms  204.14.23.74 
+  7     3 ms     3 ms     3 ms  208.64.90.246 
+
+Trace complete.
+Wed 03/27/2019 20:40:37.15 PING ERROR 25  
+
+Tracing route to utahbroadband.com [208.64.90.246]
+over a maximum of 30 hops:
+
+  1    <1 ms    <1 ms    <1 ms  192.168.1.1 
+  2     1 ms    <1 ms    <1 ms  10.1.27.1 
+  3     1 ms     2 ms     2 ms  66.29.178.205 
+  4     4 ms    16 ms     *     204.14.21.158 
+  5     4 ms     4 ms     6 ms  66.29.191.205 
+  6     3 ms     3 ms     3 ms  204.14.23.74 
+  7    13 ms     9 ms     4 ms  208.64.90.246 
+
+Trace complete.
+Wed 03/27/2019 20:41:49.15 PING ERROR 26  
+
+Tracing route to utahbroadband.com [208.64.90.246]
+over a maximum of 30 hops:
+
+  1    <1 ms    <1 ms    <1 ms  192.168.1.1 
+  2    <1 ms     1 ms     2 ms  10.1.27.1 
+  3     1 ms     1 ms     1 ms  66.29.178.205 
+  4    11 ms    20 ms    25 ms  204.14.21.158 
+  5     6 ms     4 ms     6 ms  66.29.191.205 
+  6     3 ms     3 ms     3 ms  204.14.23.74 
+  7     5 ms     3 ms     3 ms  208.64.90.246 
+
+Trace complete.
+Wed 03/27/2019 20:44:50.64 PING ERROR 27  
+
+Tracing route to utahbroadband.com [208.64.90.246]
+over a maximum of 30 hops:
+
+  1    <1 ms    <1 ms    <1 ms  192.168.1.1 
+  2     2 ms     2 ms     3 ms  10.1.27.1 
+  3     1 ms     1 ms     1 ms  66.29.178.205 
+  4     4 ms     2 ms     2 ms  204.14.21.158 
+  5     4 ms     5 ms     5 ms  66.29.191.205 
+  6     3 ms     3 ms     3 ms  204.14.23.74 
+  7    29 ms    28 ms    27 ms  208.64.90.246 
+
+Trace complete.
+Wed 03/27/2019 20:50:34.65 PING ERROR 28  
+
+Tracing route to utahbroadband.com [208.64.90.246]
+over a maximum of 30 hops:
+
+  1    <1 ms    <1 ms    <1 ms  192.168.1.1 
+  2    <1 ms    <1 ms    <1 ms  10.1.27.1 
+  3     1 ms     1 ms     1 ms  66.29.178.205 
+  4     3 ms     2 ms     2 ms  204.14.21.158 
+  5     5 ms     5 ms    12 ms  66.29.191.205 
+  6    10 ms     4 ms     3 ms  204.14.23.74 
+  7    11 ms     3 ms     3 ms  208.64.90.246 
+
+Trace complete.
+Wed 03/27/2019 20:58:47.15 PING ERROR 29  
+
+Tracing route to utahbroadband.com [208.64.90.246]
+over a maximum of 30 hops:
+
+  1    <1 ms    <1 ms    <1 ms  192.168.1.1 
+  2     3 ms    10 ms    22 ms  10.1.27.1 
+  3     1 ms     1 ms     1 ms  66.29.178.205 
+  4     2 ms     5 ms     *     204.14.21.158 
+  5     8 ms     5 ms     4 ms  66.29.191.205 
+  6     3 ms     3 ms     3 ms  204.14.23.74 
+  7    22 ms    21 ms    27 ms  208.64.90.246 
+
+Trace complete.
+Wed 03/27/2019 21:20:30.65 PING ERROR 30  
+
+Tracing route to utahbroadband.com [208.64.90.246]
+over a maximum of 30 hops:
+
+  1    <1 ms    <1 ms    <1 ms  192.168.1.1 
+  2     3 ms     2 ms     1 ms  10.1.27.1 
+  3     1 ms     1 ms     1 ms  66.29.178.205 
+  4     2 ms     2 ms     2 ms  204.14.21.158 
+  5     4 ms     5 ms     8 ms  66.29.191.205 
+  6     4 ms     4 ms     6 ms  204.14.23.74 
+  7     8 ms     3 ms     3 ms  208.64.90.246 
+
+Trace complete.
+Wed 03/27/2019 22:48:09.15 PING ERROR 31  
+
+Tracing route to utahbroadband.com [208.64.90.246]
+over a maximum of 30 hops:
+
+  1    <1 ms    <1 ms    <1 ms  192.168.1.1 
+  2     1 ms    <1 ms    <1 ms  10.1.27.1 
+  3     1 ms     1 ms    <1 ms  66.29.178.205 
+  4    12 ms    15 ms    24 ms  204.14.21.158 
+  5     4 ms     4 ms     4 ms  66.29.191.205 
+  6     3 ms     4 ms     3 ms  204.14.23.74 
+  7     3 ms     3 ms     3 ms  208.64.90.246 
+
+Trace complete.
+Thu 03/28/2019  0:18:39.64 PING ERROR 32  
+
+Tracing route to utahbroadband.com [208.64.90.246]
+over a maximum of 30 hops:
+
+  1    <1 ms    <1 ms    <1 ms  192.168.1.1 
+  2    <1 ms    <1 ms    <1 ms  10.1.27.1 
+  3     1 ms     1 ms     1 ms  66.29.178.205 
+  4     5 ms    13 ms     2 ms  204.14.21.158 
+  5     4 ms     4 ms     5 ms  66.29.191.205 
+  6     3 ms     3 ms     3 ms  204.14.23.74 
+  7     3 ms     3 ms     3 ms  208.64.90.246 
+
+Trace complete.
+Thu 03/28/2019  6:27:22.65 PING ERROR 33  
+
+Tracing route to utahbroadband.com [208.64.90.246]
+over a maximum of 30 hops:
+
+  1    <1 ms    <1 ms    <1 ms  192.168.1.1 
+  2    <1 ms    <1 ms    <1 ms  10.1.27.1 
+  3     1 ms     1 ms    <1 ms  66.29.178.205 
+  4     2 ms     2 ms     3 ms  204.14.21.158 
+  5     4 ms     4 ms     4 ms  66.29.191.205 
+  6     3 ms     3 ms     3 ms  204.14.23.74 
+  7     3 ms     3 ms     3 ms  208.64.90.246 
+
+Trace complete.
+Thu 03/28/2019  9:26:30.65 PING ERROR 34  
+
+Tracing route to utahbroadband.com [208.64.90.246]
+over a maximum of 30 hops:
+
+  1    <1 ms    <1 ms    <1 ms  192.168.1.1 
+  2    <1 ms    <1 ms    <1 ms  10.1.27.1 
+  3     1 ms     1 ms     1 ms  66.29.178.205 
+  4     3 ms     2 ms     2 ms  204.14.21.158 
+  5     4 ms     4 ms     4 ms  66.29.191.205 
+  6     3 ms     3 ms     3 ms  204.14.23.74 
+  7     3 ms     3 ms     3 ms  208.64.90.246 
+
+Trace complete.
+Thu 03/28/2019 13:25:27.15 PING ERROR 35  
+
+Tracing route to utahbroadband.com [208.64.90.246]
+over a maximum of 30 hops:
+
+  1    <1 ms    <1 ms    <1 ms  192.168.1.1 
+  2    <1 ms    <1 ms    <1 ms  10.1.27.1 
+  3     1 ms     1 ms     3 ms  66.29.178.205 
+  4     2 ms     2 ms     2 ms  204.14.21.158 
+  5     5 ms     4 ms     4 ms  66.29.191.205 
+  6     3 ms     3 ms     3 ms  204.14.23.74 
+  7     4 ms     3 ms     3 ms  208.64.90.246 
+
+Trace complete.
+Thu 03/28/2019 16:52:24.65 PING ERROR 36  
+
+Tracing route to utahbroadband.com [208.64.90.246]
+over a maximum of 30 hops:
+
+  1    <1 ms    <1 ms    <1 ms  192.168.1.1 
+  2     1 ms     3 ms    <1 ms  10.1.27.1 
+  3     1 ms     1 ms     1 ms  66.29.178.205 
+  4    18 ms     2 ms     2 ms  204.14.21.158 
+  5     7 ms     4 ms     4 ms  66.29.191.205 
+  6     4 ms     3 ms     3 ms  204.14.23.74 
+  7     3 ms     3 ms     3 ms  208.64.90.246 
+
+Trace complete.
+Thu 03/28/2019 16:56:40.15 PING ERROR 37  
+
+Tracing route to utahbroadband.com [208.64.90.246]
+over a maximum of 30 hops:
+
+  1    <1 ms    <1 ms    <1 ms  192.168.1.1 
+  2     1 ms    <1 ms    <1 ms  10.1.27.1 
+  3     1 ms     1 ms     1 ms  66.29.178.205 
+  4     2 ms     2 ms     2 ms  204.14.21.158 
+  5     5 ms     4 ms    25 ms  66.29.191.205 
+  6     3 ms     3 ms     3 ms  204.14.23.74 
+  7     3 ms     3 ms     3 ms  208.64.90.246 
+
+Trace complete.
+Thu 03/28/2019 17:02:59.15 PING ERROR 38  
+
+Tracing route to utahbroadband.com [208.64.90.246]
+over a maximum of 30 hops:
+
+  1    <1 ms    <1 ms    <1 ms  192.168.1.1 
+  2     3 ms     2 ms     2 ms  10.1.27.1 
+  3     1 ms     1 ms     1 ms  66.29.178.205 
+  4     8 ms    15 ms    32 ms  204.14.21.158 
+  5     4 ms     4 ms     4 ms  66.29.191.205 
+  6     3 ms     3 ms     3 ms  204.14.23.74 
+  7     3 ms     3 ms     3 ms  208.64.90.246 
+
+Trace complete.
+Thu 03/28/2019 19:19:22.17 PING ERROR 39  
+
+Tracing route to utahbroadband.com [208.64.90.246]
+over a maximum of 30 hops:
+
+  1    <1 ms    <1 ms    <1 ms  192.168.1.1 
+  2     2 ms     1 ms     2 ms  10.1.27.1 
+  3     1 ms     1 ms     1 ms  66.29.178.205 
+  4     3 ms    15 ms     2 ms  204.14.21.158 
+  5     5 ms     5 ms     7 ms  66.29.191.205 
+  6     5 ms     4 ms     3 ms  204.14.23.74 
+  7     3 ms     3 ms     3 ms  208.64.90.246 
+
+Trace complete.
+Thu 03/28/2019 19:43:39.17 PING ERROR 40  
+
+Tracing route to utahbroadband.com [208.64.90.246]
+over a maximum of 30 hops:
+
+  1    <1 ms    <1 ms    <1 ms  192.168.1.1 
+  2     1 ms     1 ms    <1 ms  10.1.27.1 
+  3     1 ms     1 ms    <1 ms  66.29.178.205 
+  4     6 ms     4 ms     2 ms  204.14.21.158 
+  5     4 ms     4 ms     5 ms  66.29.191.205 
+  6     6 ms     5 ms     3 ms  204.14.23.74 
+  7     4 ms     4 ms     5 ms  208.64.90.246 
+
+Trace complete.
+Thu 03/28/2019 20:00:21.67 PING ERROR 41  
+
+Tracing route to utahbroadband.com [208.64.90.246]
+over a maximum of 30 hops:
+
+  1    <1 ms    <1 ms    <1 ms  192.168.1.1 
+  2    <1 ms    <1 ms    <1 ms  10.1.27.1 
+  3     1 ms     1 ms     1 ms  66.29.178.205 
+  4     4 ms     7 ms     3 ms  204.14.21.158 
+  5     5 ms     4 ms     4 ms  66.29.191.205 
+  6     3 ms     3 ms     3 ms  204.14.23.74 
+  7     5 ms     6 ms     3 ms  208.64.90.246 
+
+Trace complete.
+Thu 03/28/2019 20:12:22.17 PING ERROR 42  
+
+Tracing route to utahbroadband.com [208.64.90.246]
+over a maximum of 30 hops:
+
+  1    <1 ms    <1 ms    <1 ms  192.168.1.1 
+  2    <1 ms    <1 ms    <1 ms  10.1.27.1 
+  3     2 ms     1 ms     1 ms  66.29.178.205 
+  4     3 ms    17 ms     2 ms  204.14.21.158 
+  5     9 ms     5 ms     4 ms  66.29.191.205 
+  6     5 ms     4 ms     3 ms  204.14.23.74 
+  7     3 ms     3 ms     3 ms  208.64.90.246 
+
+Trace complete.
+Thu 03/28/2019 21:19:07.17 PING ERROR 43  
+
+Tracing route to utahbroadband.com [208.64.90.246]
+over a maximum of 30 hops:
+
+  1    <1 ms    <1 ms    <1 ms  192.168.1.1 
+  2    <1 ms    <1 ms    <1 ms  10.1.27.1 
+  3     1 ms     1 ms     1 ms  66.29.178.201 
+  4     *        *       12 ms  204.14.21.158 
+  5     8 ms     8 ms    12 ms  66.29.191.205 
+  6     6 ms     8 ms     9 ms  204.14.23.74 
+  7    12 ms     *       11 ms  208.64.90.246 
+
+Trace complete.
+Thu 03/28/2019 21:50:16.67 PING ERROR 44  
+
+Tracing route to utahbroadband.com [208.64.90.246]
+over a maximum of 30 hops:
+
+  1    <1 ms    <1 ms    <1 ms  192.168.1.1 
+  2    <1 ms    <1 ms    <1 ms  10.1.27.1 
+  3     1 ms     1 ms     1 ms  66.29.178.205 
+  4    19 ms     3 ms     2 ms  204.14.21.158 
+  5     8 ms     4 ms     5 ms  66.29.191.205 
+  6     3 ms     4 ms     5 ms  204.14.23.74 
+  7     3 ms     3 ms     4 ms  208.64.90.246 
+
+Trace complete.
+Thu 03/28/2019 21:52:47.17 PING ERROR 45  
+
+Tracing route to utahbroadband.com [208.64.90.246]
+over a maximum of 30 hops:
+
+  1    <1 ms    <1 ms    <1 ms  192.168.1.1 
+  2    <1 ms    <1 ms    <1 ms  10.1.27.1 
+  3     1 ms     1 ms     1 ms  66.29.178.205 
+  4     4 ms    15 ms     6 ms  204.14.21.158 
+  5     9 ms     7 ms     6 ms  66.29.191.205 
+  6     3 ms     3 ms     4 ms  204.14.23.74 
+  7     5 ms     5 ms     4 ms  208.64.90.246 
+
+Trace complete.
+Thu 03/28/2019 21:58:04.17 PING ERROR 46  
+
+Tracing route to utahbroadband.com [208.64.90.246]
+over a maximum of 30 hops:
+
+  1    <1 ms    <1 ms    <1 ms  192.168.1.1 
+  2     1 ms    <1 ms    <1 ms  10.1.27.1 
+  3     1 ms     1 ms     1 ms  66.29.178.205 
+  4     3 ms     2 ms     2 ms  204.14.21.158 
+  5     7 ms     5 ms     4 ms  66.29.191.205 
+  6     3 ms     3 ms     4 ms  204.14.23.74 
+  7     4 ms     5 ms     6 ms  208.64.90.246 
+
+Trace complete.
+Thu 03/28/2019 22:19:56.17 PING ERROR 47  
+
+Tracing route to utahbroadband.com [208.64.90.246]
+over a maximum of 30 hops:
+
+  1    <1 ms    <1 ms    <1 ms  192.168.1.1 
+  2     3 ms     4 ms     1 ms  10.1.27.1 
+  3     1 ms     1 ms     1 ms  66.29.178.205 
+  4     2 ms     3 ms     2 ms  204.14.21.158 
+  5    35 ms    28 ms    10 ms  66.29.191.205 
+  6    27 ms    24 ms    19 ms  204.14.23.74 
+  7    29 ms     5 ms     3 ms  208.64.90.246 
+
+Trace complete.
+Thu 03/28/2019 22:20:14.67 PING ERROR 48  
+
+Tracing route to utahbroadband.com [208.64.90.246]
+over a maximum of 30 hops:
+
+  1    <1 ms    <1 ms    <1 ms  192.168.1.1 
+  2    <1 ms    <1 ms     1 ms  10.1.27.1 
+  3    22 ms    12 ms    17 ms  66.29.178.205 
+  4    17 ms     6 ms     6 ms  204.14.21.158 
+  5     7 ms     4 ms     4 ms  66.29.191.205 
+  6    11 ms     6 ms     3 ms  204.14.23.74 
+  7     8 ms     3 ms     3 ms  208.64.90.246 
+
+Trace complete.
+Thu 03/28/2019 22:20:32.67 PING ERROR 49  
+
+Tracing route to utahbroadband.com [208.64.90.246]
+over a maximum of 30 hops:
+
+  1    <1 ms    <1 ms    <1 ms  192.168.1.1 
+  2     *        1 ms     2 ms  10.1.27.1 
+  3     1 ms     1 ms     1 ms  66.29.178.205 
+  4    14 ms    17 ms    19 ms  204.14.21.158 
+  5     *        *       63 ms  66.29.191.205 
+  6     4 ms     3 ms     3 ms  204.14.23.74 
+  7     3 ms     3 ms     3 ms  208.64.90.246 
+
+Trace complete.
+Thu 03/28/2019 22:21:12.67 PING ERROR 50  
+
+Tracing route to utahbroadband.com [208.64.90.246]
+over a maximum of 30 hops:
+
+  1    <1 ms    <1 ms    <1 ms  192.168.1.1 
+  2    21 ms    20 ms     2 ms  10.1.27.1 
+  3     1 ms     1 ms     1 ms  66.29.178.205 
+  4     2 ms    15 ms     2 ms  204.14.21.158 
+  5    20 ms    24 ms    12 ms  66.29.191.205 
+  6    15 ms     6 ms     8 ms  204.14.23.74 
+  7     3 ms     3 ms     3 ms  208.64.90.246 
+
+Trace complete.
+Thu 03/28/2019 22:21:26.67 PING ERROR 51  
+
+Tracing route to utahbroadband.com [208.64.90.246]
+over a maximum of 30 hops:
+
+  1    <1 ms    <1 ms    <1 ms  192.168.1.1 
+  2    22 ms    24 ms     *     10.1.27.1 
+  3    14 ms    10 ms    11 ms  66.29.178.205 
+  4    12 ms     4 ms     2 ms  204.14.21.158 
+  5    18 ms     7 ms     5 ms  66.29.191.205 
+  6    17 ms    15 ms     *     204.14.23.74 
+  7     *        5 ms    16 ms  208.64.90.246 
+
+Trace complete.
+Thu 03/28/2019 22:22:47.67 PING ERROR 52  
+
+Tracing route to utahbroadband.com [208.64.90.246]
+over a maximum of 30 hops:
+
+  1    <1 ms    <1 ms    <1 ms  192.168.1.1 
+  2    <1 ms     1 ms    <1 ms  10.1.27.1 
+  3    19 ms     2 ms     1 ms  66.29.178.205 
+  4    18 ms     4 ms     2 ms  204.14.21.158 
+  5     4 ms     4 ms     4 ms  66.29.191.205 
+  6     3 ms     3 ms     3 ms  204.14.23.74 
+  7    11 ms     3 ms     3 ms  208.64.90.246 
+
+Trace complete.
+Thu 03/28/2019 22:23:07.67 PING ERROR 53  
+
+Tracing route to utahbroadband.com [208.64.90.246]
+over a maximum of 30 hops:
+
+  1    <1 ms    <1 ms    <1 ms  192.168.1.1 
+  2    <1 ms    <1 ms    <1 ms  10.1.27.1 
+  3    22 ms     *        1 ms  66.29.178.205 
+  4     2 ms     2 ms     2 ms  204.14.21.158 
+  5    24 ms    25 ms    22 ms  66.29.191.205 
+  6     5 ms     3 ms     3 ms  204.14.23.74 
+  7    26 ms     *        4 ms  208.64.90.246 
+
+Trace complete.
+Thu 03/28/2019 22:23:37.67 PING ERROR 54  
+
+Tracing route to utahbroadband.com [208.64.90.246]
+over a maximum of 30 hops:
+
+  1    <1 ms    <1 ms    <1 ms  192.168.1.1 
+  2    21 ms    12 ms     2 ms  10.1.27.1 
+  3     5 ms     3 ms     4 ms  66.29.178.205 
+  4    17 ms     8 ms     2 ms  204.14.21.158 
+  5    12 ms     7 ms     5 ms  66.29.191.205 
+  6     3 ms     3 ms     3 ms  204.14.23.74 
+  7     6 ms     3 ms     3 ms  208.64.90.246 
+
+Trace complete.
+Thu 03/28/2019 22:23:55.67 PING ERROR 55  
+
+Tracing route to utahbroadband.com [208.64.90.246]
+over a maximum of 30 hops:
+
+  1    <1 ms    <1 ms    <1 ms  192.168.1.1 
+  2    14 ms    19 ms     *     10.1.27.1 
+  3     *        9 ms     6 ms  66.29.178.205 
+  4     *        4 ms    14 ms  204.14.21.158 
+  5    36 ms    33 ms     *     66.29.191.205 
+  6     7 ms     7 ms     4 ms  204.14.23.74 
+  7     *        *        *     Request timed out.
+  8     *        4 ms     4 ms  208.64.90.246 
+
+Trace complete.
+Thu 03/28/2019 22:24:49.67 PING ERROR 56  
+
+Tracing route to utahbroadband.com [208.64.90.246]
+over a maximum of 30 hops:
+
+  1    <1 ms    <1 ms    <1 ms  192.168.1.1 
+  2    22 ms     4 ms    <1 ms  10.1.27.1 
+  3     *        1 ms     1 ms  66.29.178.205 
+  4     2 ms     2 ms     2 ms  204.14.21.158 
+  5     4 ms     4 ms     6 ms  66.29.191.205 
+  6     3 ms     3 ms     3 ms  204.14.23.74 
+  7     *       12 ms     6 ms  208.64.90.246 
+
+Trace complete.
+Thu 03/28/2019 22:25:19.67 PING ERROR 57  
+
+Tracing route to utahbroadband.com [208.64.90.246]
+over a maximum of 30 hops:
+
+  1    <1 ms    <1 ms    <1 ms  192.168.1.1 
+  2    <1 ms    <1 ms    <1 ms  10.1.27.1 
+  3     1 ms     1 ms     1 ms  66.29.178.205 
+  4     2 ms    16 ms     6 ms  204.14.21.158 
+  5     4 ms     4 ms     4 ms  66.29.191.205 
+  6     3 ms     3 ms     3 ms  204.14.23.74 
+  7    23 ms    25 ms    16 ms  208.64.90.246 
+
+Trace complete.
+Thu 03/28/2019 22:25:35.67 PING ERROR 58  
+
+Tracing route to utahbroadband.com [208.64.90.246]
+over a maximum of 30 hops:
+
+  1    <1 ms    <1 ms    <1 ms  192.168.1.1 
+  2    <1 ms    <1 ms    <1 ms  10.1.27.1 
+  3    27 ms     5 ms     1 ms  66.29.178.205 
+  4     2 ms     2 ms     2 ms  204.14.21.158 
+  5     4 ms     *        4 ms  66.29.191.205 
+  6    32 ms    34 ms    29 ms  204.14.23.74 
+  7    26 ms    33 ms    13 ms  208.64.90.246 
+
+Trace complete.
+Thu 03/28/2019 22:26:10.17 PING ERROR 59  
+
+Tracing route to utahbroadband.com [208.64.90.246]
+over a maximum of 30 hops:
+
+  1    <1 ms    <1 ms    <1 ms  192.168.1.1 
+  2    17 ms    19 ms    25 ms  10.1.27.1 
+  3    26 ms    19 ms    12 ms  66.29.178.205 
+  4     *        7 ms     *     204.14.21.158 
+  5    15 ms    14 ms     4 ms  66.29.191.205 
+  6    13 ms     7 ms     5 ms  204.14.23.74 
+  7     3 ms     3 ms     3 ms  208.64.90.246 
+
+Trace complete.
+Thu 03/28/2019 22:27:07.67 PING ERROR 60  
+
+Tracing route to utahbroadband.com [208.64.90.246]
+over a maximum of 30 hops:
+
+  1    <1 ms    <1 ms    <1 ms  192.168.1.1 
+  2    <1 ms    <1 ms    <1 ms  10.1.27.1 
+  3     1 ms     1 ms     1 ms  66.29.178.205 
+  4     7 ms    12 ms     2 ms  204.14.21.158 
+  5     6 ms     4 ms     4 ms  66.29.191.205 
+  6     7 ms    10 ms     6 ms  204.14.23.74 
+  7    22 ms    15 ms     3 ms  208.64.90.246 
+
+Trace complete.
+Thu 03/28/2019 22:27:34.17 PING ERROR 61  
+
+Tracing route to utahbroadband.com [208.64.90.246]
+over a maximum of 30 hops:
+
+  1    <1 ms    <1 ms    <1 ms  192.168.1.1 
+  2     1 ms    <1 ms    <1 ms  10.1.27.1 
+  3     4 ms    10 ms     5 ms  66.29.178.205 
+  4     3 ms    14 ms     2 ms  204.14.21.158 
+  5    11 ms    23 ms     *     66.29.191.205 
+  6    25 ms    22 ms    15 ms  204.14.23.74 
+  7     *        3 ms     4 ms  208.64.90.246 
+
+Trace complete.
+Thu 03/28/2019 22:27:53.17 PING ERROR 62  
+
+Tracing route to utahbroadband.com [208.64.90.246]
+over a maximum of 30 hops:
+
+  1    <1 ms    <1 ms    <1 ms  192.168.1.1 
+  2    <1 ms    <1 ms    <1 ms  10.1.27.1 
+  3     1 ms     1 ms     1 ms  66.29.178.205 
+  4     3 ms     2 ms     2 ms  204.14.21.158 
+  5    23 ms     4 ms     4 ms  66.29.191.205 
+  6     4 ms     4 ms     3 ms  204.14.23.74 
+  7     3 ms     3 ms     3 ms  208.64.90.246 
+
+Trace complete.
+Thu 03/28/2019 22:29:38.67 PING ERROR 63  
+
+Tracing route to utahbroadband.com [208.64.90.246]
+over a maximum of 30 hops:
+
+  1    <1 ms    <1 ms    <1 ms  192.168.1.1 
+  2     1 ms     3 ms    <1 ms  10.1.27.1 
+  3     1 ms     1 ms     1 ms  66.29.178.205 
+  4     2 ms     3 ms     3 ms  204.14.21.158 
+  5    28 ms    23 ms    20 ms  66.29.191.205 
+  6     9 ms    10 ms     8 ms  204.14.23.74 
+  7    31 ms     *       27 ms  208.64.90.246 
+
+Trace complete.
+Thu 03/28/2019 22:29:54.67 PING ERROR 64  
+
+Tracing route to utahbroadband.com [208.64.90.246]
+over a maximum of 30 hops:
+
+  1    <1 ms    <1 ms    <1 ms  192.168.1.1 
+  2     8 ms    12 ms     5 ms  10.1.27.1 
+  3     8 ms    11 ms     1 ms  66.29.178.205 
+  4     3 ms    30 ms     2 ms  204.14.21.158 
+  5    15 ms     5 ms     4 ms  66.29.191.205 
+  6    17 ms     3 ms     4 ms  204.14.23.74 
+  7     3 ms     3 ms     3 ms  208.64.90.246 
+
+Trace complete.
+Thu 03/28/2019 22:30:21.17 PING ERROR 65  
+
+Tracing route to utahbroadband.com [208.64.90.246]
+over a maximum of 30 hops:
+
+  1    <1 ms    <1 ms    <1 ms  192.168.1.1 
+  2     4 ms    11 ms     *     10.1.27.1 
+  3    15 ms     1 ms     1 ms  66.29.178.205 
+  4     3 ms    17 ms     5 ms  204.14.21.158 
+  5     7 ms     4 ms     9 ms  66.29.191.205 
+  6     3 ms     4 ms    15 ms  204.14.23.74 
+  7    31 ms    16 ms    16 ms  208.64.90.246 
+
+Trace complete.
+Thu 03/28/2019 22:31:02.67 PING ERROR 66  
+
+Tracing route to utahbroadband.com [208.64.90.246]
+over a maximum of 30 hops:
+
+  1    <1 ms    <1 ms    <1 ms  192.168.1.1 
+  2    <1 ms    <1 ms    <1 ms  10.1.27.1 
+  3     1 ms     3 ms     7 ms  66.29.178.205 
+  4    15 ms     7 ms     4 ms  204.14.21.158 
+  5    49 ms    56 ms    56 ms  66.29.191.205 
+  6    23 ms    13 ms     6 ms  204.14.23.74 
+  7     3 ms     3 ms     3 ms  208.64.90.246 
+
+Trace complete.
+Thu 03/28/2019 22:31:35.17 PING ERROR 67  
+
+Tracing route to utahbroadband.com [208.64.90.246]
+over a maximum of 30 hops:
+
+  1    <1 ms    <1 ms    <1 ms  192.168.1.1 
+  2     6 ms    18 ms    <1 ms  10.1.27.1 
+  3     *        1 ms     1 ms  66.29.178.205 
+  4    25 ms     8 ms     2 ms  204.14.21.158 
+  5     7 ms     9 ms     5 ms  66.29.191.205 
+  6     3 ms     3 ms     3 ms  204.14.23.74 
+  7     6 ms     5 ms     4 ms  208.64.90.246 
+
+Trace complete.
+Thu 03/28/2019 23:10:53.17 PING ERROR 68  
+
+Tracing route to utahbroadband.com [208.64.90.246]
+over a maximum of 30 hops:
+
+  1    <1 ms    <1 ms    <1 ms  192.168.1.1 
+  2    <1 ms    <1 ms    <1 ms  10.1.27.1 
+  3     1 ms     1 ms     1 ms  66.29.178.205 
+  4     2 ms    16 ms     2 ms  204.14.21.158 
+  5     4 ms     6 ms     5 ms  66.29.191.205 
+  6     3 ms     3 ms     3 ms  204.14.23.74 
+  7     4 ms     5 ms     4 ms  208.64.90.246 
+
+Trace complete.
+Fri 03/29/2019  0:39:12.17 PING ERROR 69  
+
+Tracing route to utahbroadband.com [208.64.90.246]
+over a maximum of 30 hops:
+
+  1    <1 ms    <1 ms    <1 ms  192.168.1.1 
+  2    <1 ms    <1 ms    <1 ms  10.1.27.1 
+  3     1 ms     1 ms    <1 ms  66.29.178.201 
+  4     *        *       10 ms  204.14.21.158 
+  5    12 ms     *        5 ms  66.29.191.205 
+  6     3 ms     4 ms     3 ms  204.14.23.74 
+  7     7 ms     3 ms     4 ms  208.64.90.246 
+
+Trace complete.
+Fri 03/29/2019  1:49:10.17 PING ERROR 70  
+
+Tracing route to utahbroadband.com [208.64.90.246]
+over a maximum of 30 hops:
+
+  1    <1 ms    <1 ms    <1 ms  192.168.1.1 
+  2    <1 ms    <1 ms    <1 ms  10.1.27.1 
+  3     1 ms    <1 ms     1 ms  66.29.178.201 
+  4     *        *        2 ms  204.14.21.158 
+  5    13 ms    31 ms     9 ms  66.29.191.205 
+  6     3 ms     3 ms     3 ms  204.14.23.74 
+  7     3 ms     3 ms     3 ms  208.64.90.246 
+
+Trace complete.
+Fri 03/29/2019  3:31:30.67 PING ERROR 71  
+
+Tracing route to utahbroadband.com [208.64.90.246]
+over a maximum of 30 hops:
+
+  1    <1 ms    <1 ms    <1 ms  192.168.1.1 
+  2    <1 ms    <1 ms    <1 ms  10.1.27.1 
+  3     1 ms    <1 ms     1 ms  66.29.178.201 
+  4     *        *        6 ms  204.14.21.158 
+  5     4 ms     4 ms     5 ms  66.29.191.205 
+  6     3 ms     3 ms     3 ms  204.14.23.74 
+  7     3 ms     3 ms     3 ms  208.64.90.246 
+
+Trace complete.
+Fri 03/29/2019  4:07:04.67 PING ERROR 72  
+
+Tracing route to utahbroadband.com [208.64.90.246]
+over a maximum of 30 hops:
+
+  1    <1 ms    <1 ms    <1 ms  192.168.1.1 
+  2    <1 ms    <1 ms    <1 ms  10.1.27.1 
+  3     1 ms     1 ms     1 ms  66.29.178.205 
+  4     3 ms    16 ms     3 ms  204.14.21.158 
+  5     4 ms     4 ms     4 ms  66.29.191.205 
+  6     3 ms     5 ms     4 ms  204.14.23.74 
+  7     3 ms     3 ms     3 ms  208.64.90.246 
+
+Trace complete.
+Fri 03/29/2019  5:42:14.67 PING ERROR 73  
+
+Tracing route to utahbroadband.com [208.64.90.246]
+over a maximum of 30 hops:
+
+  1    <1 ms    <1 ms    <1 ms  192.168.1.1 
+  2    <1 ms    <1 ms    <1 ms  10.1.27.1 
+  3     1 ms     1 ms     1 ms  66.29.178.201 
+  4     *        *        4 ms  204.14.21.158 
+  5     5 ms    11 ms     5 ms  66.29.191.205 
+  6     3 ms     3 ms     3 ms  204.14.23.74 
+  7     3 ms     3 ms     3 ms  208.64.90.246 
+
+Trace complete.
+Fri 03/29/2019  7:11:56.17 PING ERROR 74  
+
+Tracing route to utahbroadband.com [208.64.90.246]
+over a maximum of 30 hops:
+
+  1    <1 ms    <1 ms    <1 ms  192.168.1.1 
+  2    11 ms    <1 ms    <1 ms  10.1.27.1 
+  3    22 ms     3 ms     1 ms  66.29.178.205 
+  4    24 ms    12 ms     4 ms  204.14.21.158 
+  5    29 ms    28 ms    28 ms  66.29.191.205 
+  6    24 ms    21 ms    14 ms  204.14.23.74 
+  7    25 ms    30 ms     *     208.64.90.246 
+  8    27 ms    27 ms    27 ms  208.64.90.246 
+
+Trace complete.
+Fri 03/29/2019  7:13:29.67 PING ERROR 75  
+
+Tracing route to utahbroadband.com [208.64.90.246]
+over a maximum of 30 hops:
+
+  1    <1 ms    <1 ms    <1 ms  192.168.1.1 
+  2     5 ms    <1 ms    <1 ms  10.1.27.1 
+  3     1 ms    <1 ms     1 ms  66.29.178.205 
+  4     6 ms    13 ms     2 ms  204.14.21.158 
+  5    13 ms     4 ms     5 ms  66.29.191.205 
+  6     3 ms     3 ms     3 ms  204.14.23.74 
+  7     9 ms     3 ms     3 ms  208.64.90.246 
+
+Trace complete.
+Fri 03/29/2019  7:13:56.17 PING ERROR 76  
+
+Tracing route to utahbroadband.com [208.64.90.246]
+over a maximum of 30 hops:
+
+  1    <1 ms    <1 ms    <1 ms  192.168.1.1 
+  2    <1 ms    <1 ms    <1 ms  10.1.27.1 
+  3     4 ms     2 ms     1 ms  66.29.178.205 
+  4    26 ms    28 ms    27 ms  204.14.21.158 
+  5    28 ms    22 ms    13 ms  66.29.191.205 
+  6     *        9 ms    10 ms  204.14.23.74 
+  7     3 ms     3 ms     3 ms  208.64.90.246 
+
+Trace complete.
+Fri 03/29/2019  7:14:12.17 PING ERROR 77  
+
+Tracing route to utahbroadband.com [208.64.90.246]
+over a maximum of 30 hops:
+
+  1    <1 ms    <1 ms    <1 ms  192.168.1.1 
+  2    24 ms    21 ms     *     10.1.27.1 
+  3     1 ms     1 ms     1 ms  66.29.178.205 
+  4     5 ms     3 ms     2 ms  204.14.21.158 
+  5    19 ms     4 ms     6 ms  66.29.191.205 
+  6    16 ms     4 ms     4 ms  204.14.23.74 
+  7     5 ms     *        8 ms  208.64.90.246 
+
+Trace complete.
+Fri 03/29/2019  7:14:31.17 PING ERROR 78  
+
+Tracing route to utahbroadband.com [208.64.90.246]
+over a maximum of 30 hops:
+
+  1    <1 ms    <1 ms    <1 ms  192.168.1.1 
+  2     2 ms    <1 ms    <1 ms  10.1.27.1 
+  3     1 ms     2 ms    <1 ms  66.29.178.205 
+  4     8 ms    10 ms     2 ms  204.14.21.158 
+  5    17 ms    25 ms     *     66.29.191.205 
+  6     3 ms     3 ms     3 ms  204.14.23.74 
+  7    22 ms     *        3 ms  208.64.90.246 
+
+Trace complete.
+Fri 03/29/2019  7:15:32.67 PING ERROR 79  
+
+Tracing route to utahbroadband.com [208.64.90.246]
+over a maximum of 30 hops:
+
+  1    <1 ms    <1 ms    <1 ms  192.168.1.1 
+  2     2 ms     1 ms     4 ms  10.1.27.1 
+  3     1 ms     1 ms     1 ms  66.29.178.205 
+  4    33 ms    28 ms    28 ms  204.14.21.158 
+  5    11 ms    21 ms    30 ms  66.29.191.205 
+  6    29 ms    17 ms    19 ms  204.14.23.74 
+  7     7 ms     8 ms    20 ms  208.64.90.246 
+
+Trace complete.
+Fri 03/29/2019  7:15:52.67 PING ERROR 80  
+
+Tracing route to utahbroadband.com [208.64.90.246]
+over a maximum of 30 hops:
+
+  1    <1 ms    <1 ms    <1 ms  192.168.1.1 
+  2    23 ms     7 ms    <1 ms  10.1.27.1 
+  3     8 ms     3 ms     3 ms  66.29.178.205 
+  4    11 ms     8 ms     2 ms  204.14.21.158 
+  5     4 ms     4 ms     4 ms  66.29.191.205 
+  6     3 ms     3 ms     3 ms  204.14.23.74 
+  7     5 ms     3 ms     3 ms  208.64.90.246 
+
+Trace complete.
+Fri 03/29/2019  7:16:08.67 PING ERROR 81  
+
+Tracing route to utahbroadband.com [208.64.90.246]
+over a maximum of 30 hops:
+
+  1    <1 ms    <1 ms    <1 ms  192.168.1.1 
+  2     2 ms    <1 ms    <1 ms  10.1.27.1 
+  3    17 ms    16 ms     5 ms  66.29.178.205 
+  4     *       23 ms     2 ms  204.14.21.158 
+  5     4 ms     4 ms     4 ms  66.29.191.205 
+  6     3 ms     3 ms     3 ms  204.14.23.74 
+  7    22 ms    28 ms    26 ms  208.64.90.246 
+
+Trace complete.
+Fri 03/29/2019  7:16:30.67 PING ERROR 82  
+
+Tracing route to utahbroadband.com [208.64.90.246]
+over a maximum of 30 hops:
+
+  1    <1 ms    <1 ms    <1 ms  192.168.1.1 
+  2     *       <1 ms    <1 ms  10.1.27.1 
+  3     1 ms     1 ms     1 ms  66.29.178.205 
+  4     7 ms    10 ms    12 ms  204.14.21.158 
+  5     4 ms     5 ms    18 ms  66.29.191.205 
+  6    14 ms     9 ms    28 ms  204.14.23.74 
+  7     3 ms     3 ms     3 ms  208.64.90.246 
+
+Trace complete.
+Fri 03/29/2019  7:16:54.67 PING ERROR 83  
+
+Tracing route to utahbroadband.com [208.64.90.246]
+over a maximum of 30 hops:
+
+  1    <1 ms    <1 ms    <1 ms  192.168.1.1 
+  2    14 ms    10 ms     4 ms  10.1.27.1 
+  3     1 ms     1 ms     1 ms  66.29.178.205 
+  4    15 ms    20 ms     4 ms  204.14.21.158 
+  5    10 ms     9 ms    18 ms  66.29.191.205 
+  6     3 ms     3 ms     3 ms  204.14.23.74 
+  7    30 ms    22 ms    29 ms  208.64.90.246 
+
+Trace complete.
+Fri 03/29/2019  7:17:06.67 PING ERROR 84  
+
+Tracing route to utahbroadband.com [208.64.90.246]
+over a maximum of 30 hops:
+
+  1    <1 ms    <1 ms    <1 ms  192.168.1.1 
+  2    <1 ms    <1 ms    <1 ms  10.1.27.1 
+  3     9 ms    19 ms     2 ms  66.29.178.205 
+  4    26 ms     7 ms     6 ms  204.14.21.158 
+  5     5 ms    10 ms     4 ms  66.29.191.205 
+  6     3 ms     3 ms     3 ms  204.14.23.74 
+  7     3 ms     3 ms     3 ms  208.64.90.246 
+
+Trace complete.
+Fri 03/29/2019  7:17:39.17 PING ERROR 85  
+
+Tracing route to utahbroadband.com [208.64.90.246]
+over a maximum of 30 hops:
+
+  1    <1 ms    <1 ms    <1 ms  192.168.1.1 
+  2     2 ms     2 ms     2 ms  10.1.27.1 
+  3    23 ms     8 ms     2 ms  66.29.178.205 
+  4    19 ms     2 ms     3 ms  204.14.21.158 
+  5    27 ms     7 ms     5 ms  66.29.191.205 
+  6     3 ms     6 ms     3 ms  204.14.23.74 
+  7     3 ms     4 ms     9 ms  208.64.90.246 
+
+Trace complete.
+Fri 03/29/2019  7:18:09.67 PING ERROR 86  
+
+Tracing route to utahbroadband.com [208.64.90.246]
+over a maximum of 30 hops:
+
+  1    <1 ms    <1 ms    <1 ms  192.168.1.1 
+  2     *       23 ms    11 ms  10.1.27.1 
+  3     2 ms     1 ms    <1 ms  66.29.178.205 
+  4     2 ms    27 ms     7 ms  204.14.21.158 
+  5    23 ms    27 ms    26 ms  66.29.191.205 
+  6     5 ms    10 ms     3 ms  204.14.23.74 
+  7    15 ms    16 ms    19 ms  208.64.90.246 
+
+Trace complete.
+Fri 03/29/2019  7:18:44.17 PING ERROR 87  
+
+Tracing route to utahbroadband.com [208.64.90.246]
+over a maximum of 30 hops:
+
+  1    <1 ms    <1 ms    <1 ms  192.168.1.1 
+  2    22 ms    18 ms     *     10.1.27.1 
+  3    25 ms    20 ms    12 ms  66.29.178.205 
+  4    19 ms     2 ms     2 ms  204.14.21.158 
+  5     8 ms     4 ms     4 ms  66.29.191.205 
+  6     3 ms     3 ms     3 ms  204.14.23.74 
+  7     3 ms     3 ms     3 ms  208.64.90.246 
+
+Trace complete.
+Fri 03/29/2019  7:19:29.67 PING ERROR 88  
+
+Tracing route to utahbroadband.com [208.64.90.246]
+over a maximum of 30 hops:
+
+  1    <1 ms    <1 ms    <1 ms  192.168.1.1 
+  2    <1 ms    <1 ms    <1 ms  10.1.27.1 
+  3     1 ms     1 ms     1 ms  66.29.178.205 
+  4     2 ms    19 ms     2 ms  204.14.21.158 
+  5    23 ms    21 ms    11 ms  66.29.191.205 
+  6     4 ms     4 ms     3 ms  204.14.23.74 
+  7     3 ms     7 ms     3 ms  208.64.90.246 
+
+Trace complete.
+Fri 03/29/2019  7:19:43.67 PING ERROR 89  
+
+Tracing route to utahbroadband.com [208.64.90.246]
+over a maximum of 30 hops:
+
+  1    <1 ms    <1 ms    <1 ms  192.168.1.1 
+  2    <1 ms    <1 ms    <1 ms  10.1.27.1 
+  3     4 ms     1 ms     1 ms  66.29.178.205 
+  4     2 ms    15 ms     2 ms  204.14.21.158 
+  5    19 ms    16 ms    16 ms  66.29.191.205 
+  6    12 ms    12 ms     3 ms  204.14.23.74 
+  7     4 ms     3 ms     3 ms  208.64.90.246 
+
+Trace complete.
+Fri 03/29/2019  7:21:08.67 PING ERROR 90  
+
+Tracing route to utahbroadband.com [208.64.90.246]
+over a maximum of 30 hops:
+
+  1    <1 ms    <1 ms    <1 ms  192.168.1.1 
+  2    <1 ms    <1 ms     1 ms  10.1.27.1 
+  3     1 ms     1 ms     1 ms  66.29.178.205 
+  4     4 ms    17 ms     4 ms  204.14.21.158 
+  5     6 ms     5 ms     5 ms  66.29.191.205 
+  6     3 ms     3 ms     3 ms  204.14.23.74 
+  7    29 ms     *       29 ms  208.64.90.246 
+
+Trace complete.
+Fri 03/29/2019  7:21:49.17 PING ERROR 91  
+
+Tracing route to utahbroadband.com [208.64.90.246]
+over a maximum of 30 hops:
+
+  1    <1 ms    <1 ms    <1 ms  192.168.1.1 
+  2    12 ms     *        7 ms  10.1.27.1 
+  3     *        1 ms     1 ms  66.29.178.205 
+  4     2 ms     2 ms     2 ms  204.14.21.158 
+  5    13 ms     4 ms     4 ms  66.29.191.205 
+  6    11 ms    14 ms    18 ms  204.14.23.74 
+  7    20 ms     3 ms     3 ms  208.64.90.246 
+
+Trace complete.
+Fri 03/29/2019  8:22:40.67 PING ERROR 92  
+
+Tracing route to utahbroadband.com [208.64.90.246]
+over a maximum of 30 hops:
+
+  1     *        *        *     Request timed out.
+  2     *        *        *     Request timed out.
+  3     *        *        *     Request timed out.
+  4  General failure.
+
+Trace complete.
+Fri 03/29/2019  8:23:29.84 PING ERROR 93  
+
+Tracing route to utahbroadband.com [10.0.0.1]
+over a maximum of 30 hops:
+
+  1     *        *       <1 ms  192.168.1.1 
+  2    <1 ms    <1 ms    <1 ms  10.1.27.1 
+  3     1 ms     1 ms     1 ms  66.29.178.205 
+  4     3 ms     2 ms     2 ms  204.14.21.158 
+  5     6 ms     4 ms     6 ms  66.29.191.205 
+  6     *        *        *     Request timed out.
+  7     *        *        *     Request timed out.
+  8     *        *        *     Request timed out.
+  9     *        *        *     Request timed out.
+ 10     *        *        *     Request timed out.
+ 11     *        *        *     Request timed out.
+ 12     *        *        *     Request timed out.
+ 13     *        *        *     Request timed out.
+ 14     *        *        *     Request timed out.
+ 15     *        *        *     Request timed out.
+ 16     *        *        *     Request timed out.
+ 17     *        *        *     Request timed out.
+ 18     *        *        *     Request timed out.
+ 19     *        *        *     Request timed out.
+ 20     *        *        *     Request timed out.
+ 21     *        *        *     Request timed out.
+ 22     *        *        *     Request timed out.
+ 23     *        *        *     Request timed out.
+ 24     *        *        *     Request timed out.
+ 25     *        *        *     Request timed out.
+ 26     *        *        *     Request timed out.
+ 27     *        *        *     Request timed out.
+ 28     *        *        *     Request timed out.
+ 29     *        *        *     Request timed out.
+ 30     *        *        *     Request timed out.
+
+Trace complete.
+Fri 03/29/2019  8:55:14.17 PING ERROR 94  
+
+Tracing route to utahbroadband.com [208.64.90.246]
+over a maximum of 30 hops:
+
+  1    <1 ms    <1 ms    <1 ms  192.168.1.1 
+  2    <1 ms    <1 ms    <1 ms  10.1.27.1 
+  3     1 ms     1 ms    <1 ms  66.29.178.205 
+  4     3 ms     2 ms     2 ms  204.14.21.158 
+  5     4 ms     7 ms     6 ms  66.29.191.205 
+  6     3 ms     3 ms     3 ms  204.14.23.74 
+  7     3 ms     3 ms     3 ms  208.64.90.246 
+
+Trace complete.
+Fri 03/29/2019  9:11:58.67 PING ERROR 95  
+
+Tracing route to utahbroadband.com [208.64.90.246]
+over a maximum of 30 hops:
+
+  1    <1 ms    <1 ms    <1 ms  192.168.1.1 
+  2    <1 ms    <1 ms    <1 ms  10.1.27.1 
+  3     1 ms     1 ms     1 ms  66.29.178.205 
+  4     2 ms    15 ms     2 ms  204.14.21.158 
+  5     5 ms     4 ms     4 ms  66.29.191.205 
+  6     3 ms     3 ms     3 ms  204.14.23.74 
+  7     3 ms     3 ms     3 ms  208.64.90.246 
+
+Trace complete.
+
+Edit: Began work on closet, unplugged router
+
+Fri 03/29/2019  9:21:59.17 PING ERROR 96  
+
+Tracing route to utahbroadband.com [208.64.90.246]
+over a maximum of 30 hops:
+
+  1    <1 ms    <1 ms    <1 ms  192.168.1.1 
+  2     *     General failure.
+
+Trace complete.
+Fri 03/29/2019  9:22:06.30 PING ERROR 97  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:22:08.44 PING ERROR 98  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:22:10.58 PING ERROR 99  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:22:12.71 PING ERROR 100  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:22:14.84 PING ERROR 101  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:22:16.98 PING ERROR 102  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:22:19.12 PING ERROR 103  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:22:21.25 PING ERROR 104  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:22:23.38 PING ERROR 105  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:22:25.52 PING ERROR 106  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:22:27.65 PING ERROR 107  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:22:29.78 PING ERROR 108  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:22:31.91 PING ERROR 109  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:22:34.05 PING ERROR 110  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:22:36.17 PING ERROR 111  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:22:38.32 PING ERROR 112  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:22:40.45 PING ERROR 113  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:22:42.58 PING ERROR 114  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:22:44.71 PING ERROR 115  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:22:46.85 PING ERROR 116  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:22:48.99 PING ERROR 117  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:22:51.12 PING ERROR 118  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:22:53.25 PING ERROR 119  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:22:55.38 PING ERROR 120  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:22:57.51 PING ERROR 121  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:22:59.64 PING ERROR 122  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:23:01.77 PING ERROR 123  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:23:03.91 PING ERROR 124  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:23:06.05 PING ERROR 125  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:23:08.18 PING ERROR 126  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:23:10.31 PING ERROR 127  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:23:12.44 PING ERROR 128  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:23:14.57 PING ERROR 129  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:23:16.70 PING ERROR 130  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:23:18.83 PING ERROR 131  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:23:20.96 PING ERROR 132  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:23:23.09 PING ERROR 133  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:23:25.23 PING ERROR 134  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:23:27.36 PING ERROR 135  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:23:29.50 PING ERROR 136  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:23:31.63 PING ERROR 137  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:23:33.76 PING ERROR 138  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:23:35.89 PING ERROR 139  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:23:38.03 PING ERROR 140  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:23:40.16 PING ERROR 141  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:23:42.30 PING ERROR 142  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:23:44.43 PING ERROR 143  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:23:46.56 PING ERROR 144  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:23:48.69 PING ERROR 145  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:23:50.82 PING ERROR 146  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:23:52.95 PING ERROR 147  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:23:55.08 PING ERROR 148  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:23:57.21 PING ERROR 149  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:23:59.34 PING ERROR 150  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:24:01.47 PING ERROR 151  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:24:03.60 PING ERROR 152  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:24:05.74 PING ERROR 153  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:24:07.87 PING ERROR 154  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:24:10.00 PING ERROR 155  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:24:12.14 PING ERROR 156  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:24:14.28 PING ERROR 157  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:24:16.41 PING ERROR 158  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:24:18.54 PING ERROR 159  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:24:20.67 PING ERROR 160  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:24:22.80 PING ERROR 161  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:24:24.93 PING ERROR 162  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:24:27.08 PING ERROR 163  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:24:29.21 PING ERROR 164  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:24:31.35 PING ERROR 165  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:24:33.48 PING ERROR 166  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:24:35.62 PING ERROR 167  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:24:37.75 PING ERROR 168  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:24:39.88 PING ERROR 169  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:24:42.02 PING ERROR 170  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:24:44.17 PING ERROR 171  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:24:46.30 PING ERROR 172  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:24:48.45 PING ERROR 173  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:24:50.58 PING ERROR 174  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:24:52.71 PING ERROR 175  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:24:54.84 PING ERROR 176  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:24:56.97 PING ERROR 177  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:24:59.10 PING ERROR 178  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:25:01.24 PING ERROR 179  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:25:03.37 PING ERROR 180  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:25:05.50 PING ERROR 181  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:25:07.63 PING ERROR 182  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:25:09.76 PING ERROR 183  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:25:11.90 PING ERROR 184  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:25:14.02 PING ERROR 185  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:25:16.15 PING ERROR 186  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:25:18.29 PING ERROR 187  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:25:20.43 PING ERROR 188  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:25:22.56 PING ERROR 189  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:25:24.69 PING ERROR 190  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:25:26.84 PING ERROR 191  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:25:28.96 PING ERROR 192  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:25:31.09 PING ERROR 193  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:25:33.22 PING ERROR 194  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:25:35.36 PING ERROR 195  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:25:37.49 PING ERROR 196  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:25:39.63 PING ERROR 197  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:25:41.76 PING ERROR 198  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:25:43.89 PING ERROR 199  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:25:46.03 PING ERROR 200  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:25:48.16 PING ERROR 201  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:25:50.29 PING ERROR 202  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:25:52.43 PING ERROR 203  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:25:54.56 PING ERROR 204  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:25:56.69 PING ERROR 205  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:25:58.83 PING ERROR 206  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:26:00.96 PING ERROR 207  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:26:03.09 PING ERROR 208  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:26:05.23 PING ERROR 209  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:26:07.37 PING ERROR 210  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:26:09.50 PING ERROR 211  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:26:11.63 PING ERROR 212  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:26:13.77 PING ERROR 213  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:26:15.90 PING ERROR 214  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:26:18.03 PING ERROR 215  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:26:20.16 PING ERROR 216  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:26:22.30 PING ERROR 217  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:26:24.43 PING ERROR 218  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:26:26.56 PING ERROR 219  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:26:28.70 PING ERROR 220  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:26:30.83 PING ERROR 221  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:26:32.96 PING ERROR 222  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:26:35.09 PING ERROR 223  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:26:37.23 PING ERROR 224  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:26:39.35 PING ERROR 225  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:26:41.49 PING ERROR 226  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:26:43.63 PING ERROR 227  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:26:45.76 PING ERROR 228  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:26:47.89 PING ERROR 229  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:26:50.02 PING ERROR 230  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:26:52.16 PING ERROR 231  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:26:54.28 PING ERROR 232  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:26:56.43 PING ERROR 233  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:26:58.56 PING ERROR 234  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:27:00.69 PING ERROR 235  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:27:02.83 PING ERROR 236  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:27:04.95 PING ERROR 237  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:27:07.09 PING ERROR 238  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:27:09.21 PING ERROR 239  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:27:11.34 PING ERROR 240  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:27:13.48 PING ERROR 241  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:27:15.61 PING ERROR 242  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:27:17.74 PING ERROR 243  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:27:19.88 PING ERROR 244  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:27:22.03 PING ERROR 245  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:27:24.16 PING ERROR 246  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:27:26.29 PING ERROR 247  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:27:28.42 PING ERROR 248  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:27:30.56 PING ERROR 249  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:27:32.71 PING ERROR 250  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:27:34.84 PING ERROR 251  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:27:36.98 PING ERROR 252  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:27:39.12 PING ERROR 253  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:27:41.25 PING ERROR 254  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:27:43.38 PING ERROR 255  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:27:45.52 PING ERROR 256  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:27:47.65 PING ERROR 257  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:27:49.78 PING ERROR 258  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:27:51.92 PING ERROR 259  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:27:54.05 PING ERROR 260  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:27:56.18 PING ERROR 261  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:27:58.31 PING ERROR 262  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:28:00.44 PING ERROR 263  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:28:02.57 PING ERROR 264  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:28:04.71 PING ERROR 265  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:28:06.84 PING ERROR 266  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:28:08.97 PING ERROR 267  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:28:11.10 PING ERROR 268  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:28:13.24 PING ERROR 269  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:28:15.37 PING ERROR 270  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:28:17.50 PING ERROR 271  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:28:19.64 PING ERROR 272  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:28:21.78 PING ERROR 273  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:28:23.91 PING ERROR 274  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:28:26.04 PING ERROR 275  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:28:28.17 PING ERROR 276  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:28:30.31 PING ERROR 277  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:28:32.44 PING ERROR 278  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:28:34.58 PING ERROR 279  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:28:36.72 PING ERROR 280  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:28:38.85 PING ERROR 281  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:28:40.98 PING ERROR 282  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:28:43.11 PING ERROR 283  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:28:45.24 PING ERROR 284  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:28:47.40 PING ERROR 285  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:28:49.52 PING ERROR 286  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:28:51.65 PING ERROR 287  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:28:53.78 PING ERROR 288  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:28:55.92 PING ERROR 289  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:28:58.05 PING ERROR 290  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:29:00.18 PING ERROR 291  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:29:02.31 PING ERROR 292  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:29:04.44 PING ERROR 293  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:29:06.58 PING ERROR 294  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:29:08.71 PING ERROR 295  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:29:10.85 PING ERROR 296  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:29:12.99 PING ERROR 297  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:29:15.11 PING ERROR 298  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:29:17.24 PING ERROR 299  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:29:19.38 PING ERROR 300  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:29:21.51 PING ERROR 301  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:29:23.64 PING ERROR 302  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:29:25.78 PING ERROR 303  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:29:27.91 PING ERROR 304  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:29:30.04 PING ERROR 305  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:29:32.17 PING ERROR 306  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:29:34.31 PING ERROR 307  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:29:36.44 PING ERROR 308  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:29:38.57 PING ERROR 309  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:29:40.71 PING ERROR 310  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:29:42.84 PING ERROR 311  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:29:44.98 PING ERROR 312  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:29:47.11 PING ERROR 313  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:29:49.25 PING ERROR 314  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:29:51.38 PING ERROR 315  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:29:53.52 PING ERROR 316  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:29:55.65 PING ERROR 317  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:29:57.79 PING ERROR 318  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:29:59.92 PING ERROR 319  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:30:02.05 PING ERROR 320  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:30:04.18 PING ERROR 321  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:30:06.32 PING ERROR 322  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:30:08.45 PING ERROR 323  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:30:10.58 PING ERROR 324  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:30:12.72 PING ERROR 325  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:30:14.86 PING ERROR 326  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:30:16.99 PING ERROR 327  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:30:19.12 PING ERROR 328  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:30:21.25 PING ERROR 329  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:30:23.39 PING ERROR 330  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:30:25.51 PING ERROR 331  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:30:27.64 PING ERROR 332  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:30:29.78 PING ERROR 333  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:30:31.91 PING ERROR 334  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:30:34.04 PING ERROR 335  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:30:36.17 PING ERROR 336  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:30:38.30 PING ERROR 337  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:30:40.43 PING ERROR 338  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:30:42.57 PING ERROR 339  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:30:44.70 PING ERROR 340  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:30:46.84 PING ERROR 341  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:30:48.97 PING ERROR 342  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:30:51.10 PING ERROR 343  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:30:53.24 PING ERROR 344  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:30:55.37 PING ERROR 345  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:30:57.50 PING ERROR 346  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:30:59.63 PING ERROR 347  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:31:01.77 PING ERROR 348  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:31:03.90 PING ERROR 349  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:31:06.03 PING ERROR 350  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:31:08.17 PING ERROR 351  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:31:10.30 PING ERROR 352  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:31:12.44 PING ERROR 353  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:31:14.58 PING ERROR 354  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:31:16.72 PING ERROR 355  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:31:18.85 PING ERROR 356  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:31:20.99 PING ERROR 357  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:31:23.12 PING ERROR 358  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:31:25.25 PING ERROR 359  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:31:27.38 PING ERROR 360  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:31:29.51 PING ERROR 361  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:31:31.64 PING ERROR 362  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:31:33.78 PING ERROR 363  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:31:35.91 PING ERROR 364  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:31:38.05 PING ERROR 365  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:31:40.18 PING ERROR 366  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:31:42.31 PING ERROR 367  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:31:44.44 PING ERROR 368  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:31:46.58 PING ERROR 369  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:31:48.71 PING ERROR 370  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:31:50.85 PING ERROR 371  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:31:52.98 PING ERROR 372  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:31:55.11 PING ERROR 373  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:31:57.24 PING ERROR 374  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:31:59.37 PING ERROR 375  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:32:01.51 PING ERROR 376  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:32:03.66 PING ERROR 377  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:32:05.79 PING ERROR 378  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:32:07.93 PING ERROR 379  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:32:10.06 PING ERROR 380  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:32:12.20 PING ERROR 381  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:32:14.34 PING ERROR 382  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:32:16.47 PING ERROR 383  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:32:18.60 PING ERROR 384  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:32:20.73 PING ERROR 385  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:32:22.87 PING ERROR 386  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:32:25.01 PING ERROR 387  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:32:27.14 PING ERROR 388  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:32:29.27 PING ERROR 389  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:32:31.41 PING ERROR 390  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:32:33.54 PING ERROR 391  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:32:35.67 PING ERROR 392  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:32:37.80 PING ERROR 393  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:32:39.94 PING ERROR 394  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:32:42.08 PING ERROR 395  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:32:44.21 PING ERROR 396  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:32:46.35 PING ERROR 397  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:32:48.48 PING ERROR 398  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:32:50.61 PING ERROR 399  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:32:52.74 PING ERROR 400  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:32:54.87 PING ERROR 401  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:32:57.00 PING ERROR 402  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:32:59.13 PING ERROR 403  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:33:01.27 PING ERROR 404  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:33:03.40 PING ERROR 405  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:33:05.53 PING ERROR 406  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:33:07.66 PING ERROR 407  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:33:09.79 PING ERROR 408  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:33:11.92 PING ERROR 409  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:33:14.08 PING ERROR 410  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:33:16.21 PING ERROR 411  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:33:18.34 PING ERROR 412  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:33:20.48 PING ERROR 413  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:33:22.61 PING ERROR 414  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:33:24.74 PING ERROR 415  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:33:26.87 PING ERROR 416  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:33:29.01 PING ERROR 417  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:33:31.14 PING ERROR 418  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:33:33.27 PING ERROR 419  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:33:35.39 PING ERROR 420  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:33:37.53 PING ERROR 421  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:33:39.66 PING ERROR 422  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:33:41.79 PING ERROR 423  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:33:43.94 PING ERROR 424  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:33:46.06 PING ERROR 425  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:33:48.20 PING ERROR 426  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:33:50.33 PING ERROR 427  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:33:52.46 PING ERROR 428  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:33:54.60 PING ERROR 429  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:33:56.73 PING ERROR 430  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:33:58.86 PING ERROR 431  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:34:00.99 PING ERROR 432  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:34:03.13 PING ERROR 433  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:34:05.26 PING ERROR 434  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:34:07.39 PING ERROR 435  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:34:09.52 PING ERROR 436  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:34:11.66 PING ERROR 437  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:34:13.79 PING ERROR 438  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:34:15.92 PING ERROR 439  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:34:18.04 PING ERROR 440  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:34:20.18 PING ERROR 441  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:34:22.31 PING ERROR 442  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:34:24.47 PING ERROR 443  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:34:26.60 PING ERROR 444  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:34:28.74 PING ERROR 445  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:34:30.87 PING ERROR 446  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:34:33.00 PING ERROR 447  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:34:35.14 PING ERROR 448  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:34:37.27 PING ERROR 449  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:34:39.40 PING ERROR 450  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:34:41.53 PING ERROR 451  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:34:43.66 PING ERROR 452  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:34:45.80 PING ERROR 453  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:34:47.93 PING ERROR 454  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:34:50.06 PING ERROR 455  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:34:52.20 PING ERROR 456  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:34:54.33 PING ERROR 457  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:34:56.46 PING ERROR 458  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:34:58.62 PING ERROR 459  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:35:00.75 PING ERROR 460  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:35:02.88 PING ERROR 461  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:35:05.01 PING ERROR 462  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:35:07.15 PING ERROR 463  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:35:09.28 PING ERROR 464  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:35:11.43 PING ERROR 465  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:35:13.56 PING ERROR 466  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:35:15.69 PING ERROR 467  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:35:17.82 PING ERROR 468  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:35:19.96 PING ERROR 469  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:35:22.09 PING ERROR 470  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:35:24.22 PING ERROR 471  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:35:26.35 PING ERROR 472  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:35:28.50 PING ERROR 473  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:35:30.65 PING ERROR 474  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:35:32.78 PING ERROR 475  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:35:34.91 PING ERROR 476  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:35:37.05 PING ERROR 477  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:35:39.18 PING ERROR 478  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:35:41.32 PING ERROR 479  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:35:43.45 PING ERROR 480  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:35:45.58 PING ERROR 481  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:35:47.71 PING ERROR 482  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:35:49.85 PING ERROR 483  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:35:51.98 PING ERROR 484  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:35:54.11 PING ERROR 485  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:35:56.24 PING ERROR 486  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:35:58.39 PING ERROR 487  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:36:00.52 PING ERROR 488  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:36:02.66 PING ERROR 489  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:36:04.78 PING ERROR 490  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:36:06.91 PING ERROR 491  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:36:09.04 PING ERROR 492  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:36:11.17 PING ERROR 493  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:36:13.31 PING ERROR 494  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:36:15.45 PING ERROR 495  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:36:17.58 PING ERROR 496  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:36:19.71 PING ERROR 497  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:36:21.84 PING ERROR 498  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:36:23.97 PING ERROR 499  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:36:26.10 PING ERROR 500  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:36:28.24 PING ERROR 501  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:36:30.37 PING ERROR 502  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:36:32.51 PING ERROR 503  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:36:34.64 PING ERROR 504  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:36:36.77 PING ERROR 505  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:36:38.90 PING ERROR 506  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:36:41.04 PING ERROR 507  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:36:43.18 PING ERROR 508  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:36:45.31 PING ERROR 509  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:36:47.45 PING ERROR 510  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:36:49.58 PING ERROR 511  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:36:51.71 PING ERROR 512  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:36:53.84 PING ERROR 513  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:36:55.98 PING ERROR 514  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:36:58.11 PING ERROR 515  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:37:00.24 PING ERROR 516  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:37:02.37 PING ERROR 517  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:37:04.50 PING ERROR 518  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:37:06.63 PING ERROR 519  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:37:08.77 PING ERROR 520  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:37:10.91 PING ERROR 521  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:37:13.04 PING ERROR 522  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:37:15.17 PING ERROR 523  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:37:17.30 PING ERROR 524  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:37:19.44 PING ERROR 525  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:37:21.57 PING ERROR 526  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:37:23.70 PING ERROR 527  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:37:25.84 PING ERROR 528  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:37:27.97 PING ERROR 529  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:37:30.10 PING ERROR 530  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:37:32.23 PING ERROR 531  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:37:34.37 PING ERROR 532  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:37:36.51 PING ERROR 533  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:37:38.64 PING ERROR 534  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:37:40.77 PING ERROR 535  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:37:42.91 PING ERROR 536  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:37:45.04 PING ERROR 537  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:37:47.17 PING ERROR 538  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:37:49.30 PING ERROR 539  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:37:51.44 PING ERROR 540  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:37:53.57 PING ERROR 541  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:37:55.71 PING ERROR 542  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:37:57.84 PING ERROR 543  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:37:59.97 PING ERROR 544  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:38:02.10 PING ERROR 545  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:38:04.23 PING ERROR 546  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:38:06.36 PING ERROR 547  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:38:08.50 PING ERROR 548  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:38:10.64 PING ERROR 549  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:38:12.76 PING ERROR 550  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:38:14.89 PING ERROR 551  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:38:17.03 PING ERROR 552  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:38:19.16 PING ERROR 553  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:38:21.29 PING ERROR 554  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:38:23.42 PING ERROR 555  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:38:25.56 PING ERROR 556  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:38:27.69 PING ERROR 557  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:38:29.82 PING ERROR 558  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:38:31.95 PING ERROR 559  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:38:34.08 PING ERROR 560  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:38:36.21 PING ERROR 561  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:38:38.35 PING ERROR 562  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:38:40.48 PING ERROR 563  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:38:42.61 PING ERROR 564  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:38:44.74 PING ERROR 565  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:38:46.88 PING ERROR 566  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:38:49.00 PING ERROR 567  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:38:51.16 PING ERROR 568  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:38:53.29 PING ERROR 569  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:38:55.42 PING ERROR 570  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:38:57.56 PING ERROR 571  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:38:59.70 PING ERROR 572  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:39:01.83 PING ERROR 573  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:39:03.96 PING ERROR 574  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:39:06.10 PING ERROR 575  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:39:08.23 PING ERROR 576  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:39:10.36 PING ERROR 577  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:39:12.48 PING ERROR 578  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:39:14.61 PING ERROR 579  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:39:16.74 PING ERROR 580  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:39:18.88 PING ERROR 581  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:39:21.01 PING ERROR 582  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:39:23.14 PING ERROR 583  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:39:25.27 PING ERROR 584  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:39:27.40 PING ERROR 585  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:39:29.53 PING ERROR 586  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:39:31.67 PING ERROR 587  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:39:33.81 PING ERROR 588  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:39:35.94 PING ERROR 589  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:39:38.07 PING ERROR 590  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:39:40.21 PING ERROR 591  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:39:42.34 PING ERROR 592  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:39:44.47 PING ERROR 593  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:39:46.61 PING ERROR 594  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:39:48.74 PING ERROR 595  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:39:50.87 PING ERROR 596  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:39:53.01 PING ERROR 597  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:39:55.14 PING ERROR 598  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:39:57.27 PING ERROR 599  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:39:59.40 PING ERROR 600  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:40:01.53 PING ERROR 601  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:40:03.67 PING ERROR 602  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:40:05.81 PING ERROR 603  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:40:07.94 PING ERROR 604  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:40:10.07 PING ERROR 605  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:40:12.20 PING ERROR 606  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:40:14.33 PING ERROR 607  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:40:16.47 PING ERROR 608  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:40:18.60 PING ERROR 609  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:40:20.74 PING ERROR 610  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:40:22.88 PING ERROR 611  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:40:25.01 PING ERROR 612  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:40:27.15 PING ERROR 613  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:40:29.28 PING ERROR 614  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:40:31.41 PING ERROR 615  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:40:33.54 PING ERROR 616  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:40:35.67 PING ERROR 617  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:40:37.80 PING ERROR 618  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:40:39.94 PING ERROR 619  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:40:42.07 PING ERROR 620  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:40:44.20 PING ERROR 621  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:40:46.34 PING ERROR 622  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:40:48.46 PING ERROR 623  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:40:50.59 PING ERROR 624  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:40:52.73 PING ERROR 625  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:40:54.87 PING ERROR 626  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:40:57.00 PING ERROR 627  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:40:59.13 PING ERROR 628  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:41:01.27 PING ERROR 629  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:41:03.41 PING ERROR 630  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:41:05.54 PING ERROR 631  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:41:07.67 PING ERROR 632  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:41:09.81 PING ERROR 633  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:41:11.95 PING ERROR 634  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:41:14.08 PING ERROR 635  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:41:16.20 PING ERROR 636  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:41:18.34 PING ERROR 637  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:41:20.47 PING ERROR 638  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:41:22.60 PING ERROR 639  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:41:24.74 PING ERROR 640  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:41:26.87 PING ERROR 641  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:41:29.00 PING ERROR 642  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:41:31.13 PING ERROR 643  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:41:33.27 PING ERROR 644  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:41:35.40 PING ERROR 645  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:41:37.53 PING ERROR 646  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:41:39.66 PING ERROR 647  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:41:41.79 PING ERROR 648  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:41:43.94 PING ERROR 649  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:41:46.08 PING ERROR 650  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:41:48.22 PING ERROR 651  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:41:50.35 PING ERROR 652  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:41:52.48 PING ERROR 653  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:41:54.61 PING ERROR 654  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:41:56.75 PING ERROR 655  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:41:58.90 PING ERROR 656  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:42:01.04 PING ERROR 657  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:42:03.17 PING ERROR 658  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:42:05.30 PING ERROR 659  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:42:07.44 PING ERROR 660  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:42:09.57 PING ERROR 661  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:42:11.70 PING ERROR 662  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:42:13.84 PING ERROR 663  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:42:15.97 PING ERROR 664  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:42:18.11 PING ERROR 665  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:42:20.24 PING ERROR 666  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:42:22.37 PING ERROR 667  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:42:24.50 PING ERROR 668  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:42:26.64 PING ERROR 669  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:42:28.77 PING ERROR 670  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:42:30.90 PING ERROR 671  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:42:33.04 PING ERROR 672  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:42:35.17 PING ERROR 673  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:42:37.31 PING ERROR 674  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:42:39.44 PING ERROR 675  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:42:41.58 PING ERROR 676  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:42:43.72 PING ERROR 677  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:42:45.85 PING ERROR 678  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:42:48.00 PING ERROR 679  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:42:50.13 PING ERROR 680  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:42:52.26 PING ERROR 681  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:42:54.39 PING ERROR 682  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:42:56.53 PING ERROR 683  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:42:58.66 PING ERROR 684  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:43:00.80 PING ERROR 685  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:43:02.94 PING ERROR 686  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:43:05.07 PING ERROR 687  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:43:07.20 PING ERROR 688  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:43:09.33 PING ERROR 689  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:43:11.46 PING ERROR 690  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:43:13.60 PING ERROR 691  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:43:15.73 PING ERROR 692  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:43:17.87 PING ERROR 693  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:43:20.00 PING ERROR 694  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:43:22.13 PING ERROR 695  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:43:24.28 PING ERROR 696  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:43:26.41 PING ERROR 697  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:43:28.54 PING ERROR 698  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:43:30.67 PING ERROR 699  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:43:32.80 PING ERROR 700  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:43:34.93 PING ERROR 701  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:43:37.07 PING ERROR 702  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:43:39.20 PING ERROR 703  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:43:41.33 PING ERROR 704  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:43:43.46 PING ERROR 705  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:43:45.60 PING ERROR 706  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:43:47.73 PING ERROR 707  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:43:49.86 PING ERROR 708  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:43:52.00 PING ERROR 709  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:43:54.14 PING ERROR 710  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:43:56.27 PING ERROR 711  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:43:58.41 PING ERROR 712  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:44:00.54 PING ERROR 713  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:44:02.67 PING ERROR 714  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:44:04.81 PING ERROR 715  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:44:06.96 PING ERROR 716  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:44:09.10 PING ERROR 717  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:44:11.23 PING ERROR 718  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:44:13.36 PING ERROR 719  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:44:15.49 PING ERROR 720  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:44:17.62 PING ERROR 721  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:44:19.75 PING ERROR 722  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:44:21.89 PING ERROR 723  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:44:24.02 PING ERROR 724  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:44:26.15 PING ERROR 725  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:44:28.29 PING ERROR 726  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:44:30.43 PING ERROR 727  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:44:32.56 PING ERROR 728  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:44:34.69 PING ERROR 729  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:44:36.82 PING ERROR 730  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:44:38.96 PING ERROR 731  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:44:41.10 PING ERROR 732  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:44:43.23 PING ERROR 733  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:44:45.36 PING ERROR 734  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:44:47.49 PING ERROR 735  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:44:49.62 PING ERROR 736  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:44:51.75 PING ERROR 737  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:44:53.88 PING ERROR 738  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:44:56.03 PING ERROR 739  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:44:58.16 PING ERROR 740  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:45:00.28 PING ERROR 741  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:45:02.42 PING ERROR 742  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:45:04.55 PING ERROR 743  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:45:06.69 PING ERROR 744  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:45:08.82 PING ERROR 745  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:45:10.95 PING ERROR 746  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:45:13.08 PING ERROR 747  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:45:15.22 PING ERROR 748  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:45:17.35 PING ERROR 749  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:45:19.48 PING ERROR 750  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:45:21.61 PING ERROR 751  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:45:23.75 PING ERROR 752  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:45:25.88 PING ERROR 753  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:45:28.02 PING ERROR 754  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:45:30.16 PING ERROR 755  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:45:32.30 PING ERROR 756  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:45:34.43 PING ERROR 757  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:45:36.58 PING ERROR 758  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:45:38.71 PING ERROR 759  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:45:40.84 PING ERROR 760  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:45:42.98 PING ERROR 761  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:45:45.11 PING ERROR 762  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:45:47.25 PING ERROR 763  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:45:49.38 PING ERROR 764  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:45:51.51 PING ERROR 765  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:45:53.64 PING ERROR 766  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:45:55.79 PING ERROR 767  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:45:57.92 PING ERROR 768  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:46:00.05 PING ERROR 769  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:46:02.18 PING ERROR 770  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:46:04.32 PING ERROR 771  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:46:06.45 PING ERROR 772  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:46:08.58 PING ERROR 773  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:46:10.71 PING ERROR 774  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:46:12.85 PING ERROR 775  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:46:14.98 PING ERROR 776  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:46:17.11 PING ERROR 777  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:46:19.25 PING ERROR 778  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:46:21.39 PING ERROR 779  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:46:23.53 PING ERROR 780  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:46:25.66 PING ERROR 781  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:46:27.80 PING ERROR 782  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:46:29.93 PING ERROR 783  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:46:32.06 PING ERROR 784  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:46:34.21 PING ERROR 785  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:46:36.34 PING ERROR 786  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:46:38.47 PING ERROR 787  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:46:40.60 PING ERROR 788  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:46:42.73 PING ERROR 789  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:46:44.87 PING ERROR 790  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:46:47.00 PING ERROR 791  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:46:49.13 PING ERROR 792  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:46:51.26 PING ERROR 793  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:46:53.41 PING ERROR 794  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:46:55.57 PING ERROR 795  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:46:57.70 PING ERROR 796  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:46:59.83 PING ERROR 797  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:47:01.97 PING ERROR 798  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:47:04.10 PING ERROR 799  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:47:06.24 PING ERROR 800  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:47:08.37 PING ERROR 801  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:47:10.50 PING ERROR 802  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:47:12.63 PING ERROR 803  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:47:14.76 PING ERROR 804  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:47:16.89 PING ERROR 805  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:47:19.03 PING ERROR 806  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:47:21.16 PING ERROR 807  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:47:23.30 PING ERROR 808  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:47:25.43 PING ERROR 809  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:47:27.56 PING ERROR 810  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:47:29.70 PING ERROR 811  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:47:31.83 PING ERROR 812  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:47:33.96 PING ERROR 813  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:47:36.09 PING ERROR 814  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:47:38.23 PING ERROR 815  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:47:40.36 PING ERROR 816  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:47:42.49 PING ERROR 817  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:47:44.62 PING ERROR 818  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:47:46.76 PING ERROR 819  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:47:48.90 PING ERROR 820  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:47:51.03 PING ERROR 821  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:47:53.17 PING ERROR 822  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:47:55.31 PING ERROR 823  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:47:57.44 PING ERROR 824  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:47:59.57 PING ERROR 825  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:48:01.71 PING ERROR 826  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:48:03.84 PING ERROR 827  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:48:05.97 PING ERROR 828  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:48:08.10 PING ERROR 829  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:48:10.23 PING ERROR 830  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:48:12.37 PING ERROR 831  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:48:14.50 PING ERROR 832  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:48:16.64 PING ERROR 833  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:48:18.77 PING ERROR 834  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:48:20.91 PING ERROR 835  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:48:23.04 PING ERROR 836  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:48:25.17 PING ERROR 837  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:48:27.30 PING ERROR 838  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:48:29.44 PING ERROR 839  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:48:31.58 PING ERROR 840  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:48:33.71 PING ERROR 841  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:48:35.84 PING ERROR 842  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:48:37.97 PING ERROR 843  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:48:40.10 PING ERROR 844  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:48:42.24 PING ERROR 845  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:48:44.37 PING ERROR 846  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:48:46.51 PING ERROR 847  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:48:48.64 PING ERROR 848  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:48:50.77 PING ERROR 849  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:48:52.90 PING ERROR 850  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:48:55.03 PING ERROR 851  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:48:57.17 PING ERROR 852  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:48:59.30 PING ERROR 853  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:49:01.45 PING ERROR 854  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:49:03.58 PING ERROR 855  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:49:05.71 PING ERROR 856  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:49:07.86 PING ERROR 857  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:49:09.99 PING ERROR 858  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:49:12.12 PING ERROR 859  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:49:14.25 PING ERROR 860  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:49:16.38 PING ERROR 861  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:49:18.52 PING ERROR 862  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:49:20.66 PING ERROR 863  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:49:22.79 PING ERROR 864  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:49:24.92 PING ERROR 865  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:49:27.06 PING ERROR 866  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:49:29.19 PING ERROR 867  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:49:31.32 PING ERROR 868  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:49:33.47 PING ERROR 869  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:49:35.60 PING ERROR 870  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:49:37.74 PING ERROR 871  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:49:39.88 PING ERROR 872  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:49:42.01 PING ERROR 873  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:49:44.15 PING ERROR 874  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:49:46.27 PING ERROR 875  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:49:48.42 PING ERROR 876  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:49:50.56 PING ERROR 877  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:49:52.69 PING ERROR 878  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:49:54.82 PING ERROR 879  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:49:56.96 PING ERROR 880  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:49:59.10 PING ERROR 881  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:50:01.23 PING ERROR 882  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:50:03.36 PING ERROR 883  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:50:05.50 PING ERROR 884  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:50:07.64 PING ERROR 885  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:50:09.77 PING ERROR 886  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:50:11.91 PING ERROR 887  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:50:14.04 PING ERROR 888  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:50:16.18 PING ERROR 889  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:50:18.31 PING ERROR 890  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:50:20.46 PING ERROR 891  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:50:22.60 PING ERROR 892  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:50:24.74 PING ERROR 893  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:50:26.87 PING ERROR 894  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:50:29.00 PING ERROR 895  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:50:31.13 PING ERROR 896  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:50:33.26 PING ERROR 897  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:50:35.39 PING ERROR 898  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:50:37.53 PING ERROR 899  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:50:39.67 PING ERROR 900  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:50:41.80 PING ERROR 901  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:50:43.93 PING ERROR 902  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:50:46.07 PING ERROR 903  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:50:48.20 PING ERROR 904  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:50:50.35 PING ERROR 905  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:50:52.48 PING ERROR 906  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:50:54.61 PING ERROR 907  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:50:56.75 PING ERROR 908  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:50:58.89 PING ERROR 909  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:51:01.02 PING ERROR 910  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:51:03.15 PING ERROR 911  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:51:05.29 PING ERROR 912  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:51:07.42 PING ERROR 913  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:51:09.55 PING ERROR 914  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:51:11.69 PING ERROR 915  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:51:13.82 PING ERROR 916  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:51:15.95 PING ERROR 917  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:51:18.08 PING ERROR 918  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:51:20.22 PING ERROR 919  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:51:22.35 PING ERROR 920  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:51:24.49 PING ERROR 921  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:51:26.62 PING ERROR 922  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:51:28.76 PING ERROR 923  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:51:30.91 PING ERROR 924  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:51:33.04 PING ERROR 925  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:51:35.18 PING ERROR 926  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:51:37.31 PING ERROR 927  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:51:39.45 PING ERROR 928  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:51:41.58 PING ERROR 929  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:51:43.72 PING ERROR 930  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:51:45.85 PING ERROR 931  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:51:47.98 PING ERROR 932  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:51:50.11 PING ERROR 933  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:51:52.27 PING ERROR 934  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:51:54.40 PING ERROR 935  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:51:56.53 PING ERROR 936  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:51:58.67 PING ERROR 937  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:52:00.81 PING ERROR 938  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:52:02.95 PING ERROR 939  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:52:05.08 PING ERROR 940  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:52:07.22 PING ERROR 941  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:52:09.35 PING ERROR 942  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:52:11.48 PING ERROR 943  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:52:13.61 PING ERROR 944  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:52:15.75 PING ERROR 945  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:52:17.88 PING ERROR 946  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:52:20.03 PING ERROR 947  
+Unable to resolve target system name utahbroadband.com.
+Fri 03/29/2019  9:52:21.79 PING ERROR 948  
+Unable to resolve target system name utahbroadband.com.
